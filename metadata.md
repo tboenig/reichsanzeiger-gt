@@ -59,6 +59,31 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <dd>TextLine</dd>
                   <dt>Page</dt>
                   <dd>Page</dd>
+                  <dt>TxtRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
+                         target="_blank">TextRegion</a>
+                  </dd>
+                  <dt>GraphRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyGraphik.html"
+                         target="_blank">GraphicRegion</a>
+                  </dd>
+                  <dt>SepRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lySeparatoren.html"
+                         target="_blank">SeperatorRegion</a>
+                  </dd>
+                  <dt>AdRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyWerbung.html"
+                         target="_blank">AdvertRegion</a>
+                  </dd>
+                  <dt>NoiseRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyRauschen.html"
+                         target="_blank">NoiseRegion</a>
+                  </dd>
                </dl>
             </details>
          </td>
@@ -70,6 +95,21 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                <button onclick="document.getElementById('table_id').classList.toggle('hide2')">
                   <i>Page</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
+                  <i>TxtRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
+                  <i>GraphRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
+                  <i>SepRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide13')">
+                  <i>AdRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide14')">
+                  <i>NoiseRegion</i>
+               </button>
             </div>
          </td>
       </tr>
@@ -79,12 +119,22 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
+            <th>AdRegion</th>
+            <th>NoiseRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>68263</td>
+            <td>64</td>
+            <td>36895</td>
+            <td>30</td>
+            <td>4610</td>
+            <td>2</td>
+            <td>1</td>
          </tr>
       </tbody>
    </table>

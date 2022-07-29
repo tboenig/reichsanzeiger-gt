@@ -135,6 +135,13 @@
    <tbody>
       <tr>
          <th>1881_115_0163.xml</th>
+         <td>186</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>57</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -142,18 +149,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>808</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1843_142_0207.xml</th>
+         <td>75</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>35</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -161,18 +168,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>736</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1873_1_0017.xml</th>
+         <td>119</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>60</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -180,18 +187,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>479</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1885_5_0054.xml</th>
+         <td>218</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>19</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -199,18 +206,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>878</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1871_59_0469.xml</th>
+         <td>30</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>23</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -218,18 +225,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>334</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1885_1_0008.xml</th>
+         <td>640</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>45</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -237,18 +244,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1227</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1891_5_0058.xml</th>
+         <td>1978</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>110</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -256,18 +263,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>2337</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1887_1_0330.xml</th>
+         <td>190</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>58</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -275,18 +282,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>955</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1870_245_0433.xml</th>
+         <td>17</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -294,37 +301,37 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>328</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1877_115_0137.xml</th>
+         <td>535</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
+         <td>132</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>960</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1875_2_0020.xml</th>
+         <td>3268</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>233</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -332,18 +339,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>3540</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1876_158_0491.xml</th>
+         <td>2628</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>164</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -351,18 +358,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>2815</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1878_248_0443.xml</th>
+         <td>36</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>25</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -370,18 +377,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>757</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1879_45_0344.xml</th>
+         <td>1855</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>237</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -389,18 +396,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1966</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1873_69_0497.xml</th>
+         <td>550</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>140</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -408,18 +415,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1109</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1835_319_0682.xml</th>
+         <td>163</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>55</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -427,18 +434,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>782</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1876_174_0602.xml</th>
+         <td>17</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>19</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -446,18 +453,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>750</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1887_52_0313.xml</th>
+         <td>2148</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>83</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -465,18 +472,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>2442</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1878_249_0450.xml</th>
+         <td>67</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>17</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -484,18 +491,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>746</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1870_244_0431.xml</th>
+         <td>19</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>13</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -503,37 +510,37 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>197</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1883_3_0036.xml</th>
+         <td>566</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
+         <td>46</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1106</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1857_132_0507.xml</th>
+         <td>101</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>23</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -541,18 +548,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>349</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1879_1_0011.xml</th>
+         <td>485</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>77</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -560,18 +567,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1279</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1879_2_0016.xml</th>
+         <td>35</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>22</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -579,18 +586,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>736</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1889_1_0019.xml</th>
+         <td>1203</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>100</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -598,18 +605,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1673</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1834_239_0518.xml</th>
+         <td>119</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>61</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -617,18 +624,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>737</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1820_84_0220.xml</th>
+         <td>38</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>26</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -636,18 +643,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>260</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1844_214_0615.xml</th>
+         <td>85</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>40</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -655,18 +662,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>722</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1883_55_0044.xml</th>
+         <td>3432</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>44</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -674,18 +681,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>3647</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1906_260_0025.xml</th>
+         <td>921</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>273</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -693,18 +700,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1432</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1887_54_0333.xml</th>
+         <td>132</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>43</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -712,18 +719,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>760</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1893_78_0497.xml</th>
+         <td>1099</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>181</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -731,18 +738,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1602</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1871_19_0143.xml</th>
+         <td>166</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>56</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -750,18 +757,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>416</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1878_248_0442.xml</th>
+         <td>122</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>66</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -769,18 +776,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>775</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1871_65_0045.xml</th>
+         <td>24</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>16</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -788,18 +795,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>291</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1871_65_0046.xml</th>
+         <td>48</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>21</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -807,18 +814,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>269</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1891_1_0001.xml</th>
+         <td>14</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -826,18 +833,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>264</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1887_168_0177.xml</th>
+         <td>367</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>66</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -845,37 +852,37 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1048</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1847_130_0342.xml</th>
+         <td>60</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>46</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>720</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1887_134_0444.xml</th>
+         <td>425</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>62</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -883,18 +890,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1074</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1829_73_0295.xml</th>
+         <td>28</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -902,18 +909,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>329</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1904_263_0459.xml</th>
+         <td>110</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>30</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -921,18 +928,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>429</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1885_1_0007.xml</th>
+         <td>218</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>97</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -940,18 +947,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>871</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1889_1_0018.xml</th>
+         <td>558</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>58</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -959,18 +966,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1175</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1870_14_0126.xml</th>
+         <td>613</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>132</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -978,18 +985,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>775</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1906_1_0010.xml</th>
+         <td>88</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>61</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -997,18 +1004,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1085</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1879_247_0279.xml</th>
+         <td>162</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>26</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1016,18 +1023,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>861</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1871_155_0279.xml</th>
+         <td>15</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1035,18 +1042,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>376</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1893_2_0023.xml</th>
+         <td>377</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>129</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1054,18 +1061,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1030</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1881_1_0662.xml</th>
+         <td>499</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>26</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1073,18 +1080,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1017</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1891_33_0452.xml</th>
+         <td>209</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>28</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1092,18 +1099,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>897</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1871_22_0169.xml</th>
+         <td>171</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>40</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1111,18 +1118,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>388</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1878_249_0449.xml</th>
+         <td>74</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>46</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1130,18 +1137,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>748</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1871_104_0417.xml</th>
+         <td>370</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>124</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1149,18 +1156,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>467</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1893_78_0481.xml</th>
+         <td>492</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>115</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1168,18 +1175,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1112</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1885_120_0249.xml</th>
+         <td>1744</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>148</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1187,18 +1194,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1503</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1877_7_0059.xml</th>
+         <td>2152</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>36</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1206,18 +1213,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>2610</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1877_115_0136.xml</th>
+         <td>314</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>146</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1225,18 +1232,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1048</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1900_160_0099.xml</th>
+         <td>3121</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>126</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1244,18 +1251,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>3410</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1885_5_0055.xml</th>
+         <td>48</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>16</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1263,18 +1270,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>880</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1875_1_0013.xml</th>
+         <td>375</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>150</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1282,18 +1289,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>1453</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1883_3_0028.xml</th>
+         <td>172</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>70</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1301,18 +1308,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>781</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1841_81_0181.xml</th>
+         <td>26</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>26</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1320,18 +1327,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>737</td>
+         <td>1</td>
       </tr>
       <tr>
          <th>1870_138_0554.xml</th>
+         <td>778</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>150</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1339,15 +1346,8 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>975</td>
+         <td>1</td>
       </tr>
    </tbody>
 </table>

@@ -212,20 +212,20 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
          <tbody>
             <tr>
                <th>reichsanzeiger-gt</th>
+               <td>68263</td>
+               <td>64</td>
+               <td>36895</td>
+               <td>0</td>
+               <td>0</td>
+               <td>30</td>
+               <td>0</td>
+               <td>0</td>
+               <td>4610</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
+               <td>2</td>
+               <td>1</td>
                <td>0</td>
                <td>0</td>
             </tr>
@@ -259,15 +259,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1881_115_0163.xml">1881_115_0163.xml</a>
                            </td>
+                           <td>808</td>
+                           <td>1</td>
+                           <td>186</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>57</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -280,15 +280,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1843_142_0207.xml">1843_142_0207.xml</a>
                            </td>
+                           <td>736</td>
+                           <td>1</td>
+                           <td>75</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>35</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -301,15 +301,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1873_1_0017.xml">1873_1_0017.xml</a>
                            </td>
+                           <td>479</td>
+                           <td>1</td>
+                           <td>119</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>60</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -322,15 +322,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1885_5_0054.xml">1885_5_0054.xml</a>
                            </td>
+                           <td>878</td>
+                           <td>1</td>
+                           <td>218</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>19</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -343,15 +343,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1871_59_0469.xml">1871_59_0469.xml</a>
                            </td>
+                           <td>334</td>
+                           <td>1</td>
+                           <td>30</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>23</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -364,15 +364,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1885_1_0008.xml">1885_1_0008.xml</a>
                            </td>
+                           <td>1227</td>
+                           <td>1</td>
+                           <td>640</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>45</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -385,15 +385,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1891_5_0058.xml">1891_5_0058.xml</a>
                            </td>
+                           <td>2337</td>
+                           <td>1</td>
+                           <td>1978</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>110</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -406,15 +406,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1887_1_0330.xml">1887_1_0330.xml</a>
                            </td>
+                           <td>955</td>
+                           <td>1</td>
+                           <td>190</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>58</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -427,15 +427,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1870_245_0433.xml">1870_245_0433.xml</a>
                            </td>
+                           <td>328</td>
+                           <td>1</td>
+                           <td>17</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>12</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -448,19 +448,19 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1877_115_0137.xml">1877_115_0137.xml</a>
                            </td>
+                           <td>960</td>
+                           <td>1</td>
+                           <td>535</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>132</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -469,15 +469,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1875_2_0020.xml">1875_2_0020.xml</a>
                            </td>
+                           <td>3540</td>
+                           <td>1</td>
+                           <td>3268</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>233</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -490,15 +490,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1876_158_0491.xml">1876_158_0491.xml</a>
                            </td>
+                           <td>2815</td>
+                           <td>1</td>
+                           <td>2628</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>164</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -511,15 +511,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1878_248_0443.xml">1878_248_0443.xml</a>
                            </td>
+                           <td>757</td>
+                           <td>1</td>
+                           <td>36</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>25</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -532,15 +532,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1879_45_0344.xml">1879_45_0344.xml</a>
                            </td>
+                           <td>1966</td>
+                           <td>1</td>
+                           <td>1855</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>237</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -553,15 +553,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1873_69_0497.xml">1873_69_0497.xml</a>
                            </td>
+                           <td>1109</td>
+                           <td>1</td>
+                           <td>550</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>140</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -574,15 +574,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1835_319_0682.xml">1835_319_0682.xml</a>
                            </td>
+                           <td>782</td>
+                           <td>1</td>
+                           <td>163</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>55</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -595,15 +595,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1876_174_0602.xml">1876_174_0602.xml</a>
                            </td>
+                           <td>750</td>
+                           <td>1</td>
+                           <td>17</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>19</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -616,15 +616,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1887_52_0313.xml">1887_52_0313.xml</a>
                            </td>
+                           <td>2442</td>
+                           <td>1</td>
+                           <td>2148</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>83</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -637,15 +637,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1878_249_0450.xml">1878_249_0450.xml</a>
                            </td>
+                           <td>746</td>
+                           <td>1</td>
+                           <td>67</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>17</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -658,15 +658,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1870_244_0431.xml">1870_244_0431.xml</a>
                            </td>
+                           <td>197</td>
+                           <td>1</td>
+                           <td>19</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>13</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -679,20 +679,20 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1883_3_0036.xml">1883_3_0036.xml</a>
                            </td>
+                           <td>1106</td>
+                           <td>1</td>
+                           <td>566</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>46</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                         </tr>
@@ -700,15 +700,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1857_132_0507.xml">1857_132_0507.xml</a>
                            </td>
+                           <td>349</td>
+                           <td>1</td>
+                           <td>101</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>23</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -721,15 +721,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1879_1_0011.xml">1879_1_0011.xml</a>
                            </td>
+                           <td>1279</td>
+                           <td>1</td>
+                           <td>485</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>77</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -742,15 +742,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1879_2_0016.xml">1879_2_0016.xml</a>
                            </td>
+                           <td>736</td>
+                           <td>1</td>
+                           <td>35</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>22</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -763,15 +763,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1889_1_0019.xml">1889_1_0019.xml</a>
                            </td>
+                           <td>1673</td>
+                           <td>1</td>
+                           <td>1203</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>100</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -784,15 +784,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1834_239_0518.xml">1834_239_0518.xml</a>
                            </td>
+                           <td>737</td>
+                           <td>1</td>
+                           <td>119</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>61</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -805,15 +805,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1820_84_0220.xml">1820_84_0220.xml</a>
                            </td>
+                           <td>260</td>
+                           <td>1</td>
+                           <td>38</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>26</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -826,15 +826,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1844_214_0615.xml">1844_214_0615.xml</a>
                            </td>
+                           <td>722</td>
+                           <td>1</td>
+                           <td>85</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>40</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -847,15 +847,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1883_55_0044.xml">1883_55_0044.xml</a>
                            </td>
+                           <td>3647</td>
+                           <td>1</td>
+                           <td>3432</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>44</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -868,15 +868,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1906_260_0025.xml">1906_260_0025.xml</a>
                            </td>
+                           <td>1432</td>
+                           <td>1</td>
+                           <td>921</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>273</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -889,15 +889,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1887_54_0333.xml">1887_54_0333.xml</a>
                            </td>
+                           <td>760</td>
+                           <td>1</td>
+                           <td>132</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>43</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -910,15 +910,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1893_78_0497.xml">1893_78_0497.xml</a>
                            </td>
+                           <td>1602</td>
+                           <td>1</td>
+                           <td>1099</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>181</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -931,15 +931,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1871_19_0143.xml">1871_19_0143.xml</a>
                            </td>
+                           <td>416</td>
+                           <td>1</td>
+                           <td>166</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>56</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -952,15 +952,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1878_248_0442.xml">1878_248_0442.xml</a>
                            </td>
+                           <td>775</td>
+                           <td>1</td>
+                           <td>122</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>66</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -973,15 +973,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1871_65_0045.xml">1871_65_0045.xml</a>
                            </td>
+                           <td>291</td>
+                           <td>1</td>
+                           <td>24</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>16</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -994,15 +994,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1871_65_0046.xml">1871_65_0046.xml</a>
                            </td>
+                           <td>269</td>
+                           <td>1</td>
+                           <td>48</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>21</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1015,15 +1015,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1891_1_0001.xml">1891_1_0001.xml</a>
                            </td>
+                           <td>264</td>
+                           <td>1</td>
+                           <td>14</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>9</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1036,15 +1036,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1887_168_0177.xml">1887_168_0177.xml</a>
                            </td>
+                           <td>1048</td>
+                           <td>1</td>
+                           <td>367</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>66</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1057,19 +1057,19 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1847_130_0342.xml">1847_130_0342.xml</a>
                            </td>
+                           <td>720</td>
+                           <td>1</td>
+                           <td>60</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>46</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1078,15 +1078,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1887_134_0444.xml">1887_134_0444.xml</a>
                            </td>
+                           <td>1074</td>
+                           <td>1</td>
+                           <td>425</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>62</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1099,15 +1099,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1829_73_0295.xml">1829_73_0295.xml</a>
                            </td>
+                           <td>329</td>
+                           <td>1</td>
+                           <td>28</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>11</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1120,15 +1120,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1904_263_0459.xml">1904_263_0459.xml</a>
                            </td>
+                           <td>429</td>
+                           <td>1</td>
+                           <td>110</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>30</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1141,15 +1141,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1885_1_0007.xml">1885_1_0007.xml</a>
                            </td>
+                           <td>871</td>
+                           <td>1</td>
+                           <td>218</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>97</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1162,15 +1162,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1889_1_0018.xml">1889_1_0018.xml</a>
                            </td>
+                           <td>1175</td>
+                           <td>1</td>
+                           <td>558</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>58</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1183,15 +1183,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1870_14_0126.xml">1870_14_0126.xml</a>
                            </td>
+                           <td>775</td>
+                           <td>1</td>
+                           <td>613</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>132</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1204,15 +1204,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1906_1_0010.xml">1906_1_0010.xml</a>
                            </td>
+                           <td>1085</td>
+                           <td>1</td>
+                           <td>88</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>61</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1225,15 +1225,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1879_247_0279.xml">1879_247_0279.xml</a>
                            </td>
+                           <td>861</td>
+                           <td>1</td>
+                           <td>162</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>26</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1246,15 +1246,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1871_155_0279.xml">1871_155_0279.xml</a>
                            </td>
+                           <td>376</td>
+                           <td>1</td>
+                           <td>15</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1267,15 +1267,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1893_2_0023.xml">1893_2_0023.xml</a>
                            </td>
+                           <td>1030</td>
+                           <td>1</td>
+                           <td>377</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>129</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1288,15 +1288,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1881_1_0662.xml">1881_1_0662.xml</a>
                            </td>
+                           <td>1017</td>
+                           <td>1</td>
+                           <td>499</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>26</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1309,15 +1309,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1891_33_0452.xml">1891_33_0452.xml</a>
                            </td>
+                           <td>897</td>
+                           <td>1</td>
+                           <td>209</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>28</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1330,15 +1330,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1871_22_0169.xml">1871_22_0169.xml</a>
                            </td>
+                           <td>388</td>
+                           <td>1</td>
+                           <td>171</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>40</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1351,15 +1351,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1878_249_0449.xml">1878_249_0449.xml</a>
                            </td>
+                           <td>748</td>
+                           <td>1</td>
+                           <td>74</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>46</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1372,15 +1372,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1871_104_0417.xml">1871_104_0417.xml</a>
                            </td>
+                           <td>467</td>
+                           <td>1</td>
+                           <td>370</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>124</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1393,15 +1393,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1893_78_0481.xml">1893_78_0481.xml</a>
                            </td>
+                           <td>1112</td>
+                           <td>1</td>
+                           <td>492</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>115</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1414,15 +1414,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1885_120_0249.xml">1885_120_0249.xml</a>
                            </td>
+                           <td>1503</td>
+                           <td>1</td>
+                           <td>1744</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>148</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1435,15 +1435,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1877_7_0059.xml">1877_7_0059.xml</a>
                            </td>
+                           <td>2610</td>
+                           <td>1</td>
+                           <td>2152</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>36</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1456,15 +1456,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1877_115_0136.xml">1877_115_0136.xml</a>
                            </td>
+                           <td>1048</td>
+                           <td>1</td>
+                           <td>314</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>146</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1477,15 +1477,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1900_160_0099.xml">1900_160_0099.xml</a>
                            </td>
+                           <td>3410</td>
+                           <td>1</td>
+                           <td>3121</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>126</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1498,15 +1498,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1885_5_0055.xml">1885_5_0055.xml</a>
                            </td>
+                           <td>880</td>
+                           <td>1</td>
+                           <td>48</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>16</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1519,15 +1519,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1875_1_0013.xml">1875_1_0013.xml</a>
                            </td>
+                           <td>1453</td>
+                           <td>1</td>
+                           <td>375</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>150</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1540,15 +1540,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1883_3_0028.xml">1883_3_0028.xml</a>
                            </td>
+                           <td>781</td>
+                           <td>1</td>
+                           <td>172</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>70</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1561,15 +1561,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1841_81_0181.xml">1841_81_0181.xml</a>
                            </td>
+                           <td>737</td>
+                           <td>1</td>
+                           <td>26</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>26</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1582,15 +1582,15 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                            <td>
                               <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeiger-gt/GT-PAGE/1870_138_0554.xml">1870_138_0554.xml</a>
                            </td>
+                           <td>975</td>
+                           <td>1</td>
+                           <td>778</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>150</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
