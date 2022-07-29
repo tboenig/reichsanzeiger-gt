@@ -45,12 +45,22 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
+            <th>AdRegion</th>
+            <th>NoiseRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>68263</td>
+            <td>64</td>
+            <td>36895</td>
+            <td>30</td>
+            <td>4610</td>
+            <td>2</td>
+            <td>1</td>
          </tr>
       </tbody>
    </table>
@@ -62,11 +72,25 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
             <thead>
                <tr>
                   <th>document</th>
+                  <th>TxtRegion</th>
+                  <th>GraphRegion</th>
+                  <th>SepRegion</th>
+                  <th>AdRegion</th>
+                  <th>NoiseRegion</th>
+                  <th>TextLine</th>
+                  <th>Page</th>
                </tr>
             </thead>
             <tbody>
                <tr>
                   <td>reichsanzeiger-gt</td>
+                  <td>36895</td>
+                  <td>30</td>
+                  <td>4610</td>
+                  <td>2</td>
+                  <td>1</td>
+                  <td>68263</td>
+                  <td>64</td>
                </tr>
             </tbody>
          </table>
