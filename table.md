@@ -211,7 +211,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
          </thead>
          <tbody>
             <tr>
-               <th>reichsanzeigerGT182084</th>
+               <th>PPN477366015</th>
                <td>260</td>
                <td>1</td>
                <td>38</td>
@@ -257,7 +257,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/reichsanzeigerGT182084/GT-PAGE/reichsanzeigerGT1820840220.xml">reichsanzeigerGT1820840220.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0003.xml">477366015_0003.xml</a>
                            </td>
                            <td>260</td>
                            <td>1</td>
