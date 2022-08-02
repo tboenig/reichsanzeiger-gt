@@ -51,10 +51,10 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
       </thead>
       <tbody>
          <tr>
-            <td>1193</td>
-            <td>22</td>
-            <td>127</td>
-            <td>37</td>
+            <td>329</td>
+            <td>1</td>
+            <td>28</td>
+            <td>11</td>
          </tr>
       </tbody>
    </table>
@@ -79,19 +79,6 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>11</td>
                   <td>329</td>
                   <td>1</td>
-               </tr>
-               <tr>
-                  <td>PPN477366015</td>
-                  <td>38</td>
-                  <td>26</td>
-                  <td>260</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>PPN477380670</td>
-                  <td>61</td>
-                  <td>604</td>
-                  <td>20</td>
                </tr>
             </tbody>
          </table>
