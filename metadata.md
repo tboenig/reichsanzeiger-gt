@@ -64,6 +64,11 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
                          target="_blank">TextRegion</a>
                   </dd>
+                  <dt>GraphRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyGraphik.html"
+                         target="_blank">GraphicRegion</a>
+                  </dd>
                   <dt>SepRegion</dt>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lySeparatoren.html"
@@ -83,6 +88,9 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
                   <i>TxtRegion</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
+                  <i>GraphRegion</i>
+               </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
                   <i>SepRegion</i>
                </button>
@@ -96,15 +104,17 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
             <th>TextLine</th>
             <th>Page</th>
             <th>TxtRegion</th>
+            <th>GraphRegion</th>
             <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>329</td>
-            <td>1</td>
-            <td>28</td>
-            <td>11</td>
+            <td>3321</td>
+            <td>5</td>
+            <td>411</td>
+            <td>3</td>
+            <td>188</td>
          </tr>
       </tbody>
    </table>
