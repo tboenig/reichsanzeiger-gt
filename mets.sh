@@ -1,4 +1,10 @@
 
+                            cd /home/runner/work/reichsanzeiger-gt/reichsanzeiger-gt/data/PPN477366015/
+                            wget https://files.transkribus.eu/Get?id=PCXOIGGOMBDWXHBKDAWJZBMH -O GT-PAGE/477366015_0003.jpg
+                            ocrd workspace add -g P0001 -G DEFAULT -i DEFAULT_0001 -m image/ GT-PAGE/477366015_0003.jpg
+                            ocrd workspace add -g P0001 -G OCR-D-IMG -i OCR-D-IMG_0001 -m image/ GT-PAGE/477366015_0003.jpg
+                            ocrd workspace add -g P0001 -G OCR-D-GT-SEG-PAGE -i OCR-D-GT-SEG-PAGE_0001 -m text/xml /home/runner/work/reichsanzeiger-gt/reichsanzeiger-gt/data/PPN477366015/GT-PAGE/477366015_0003.xml
+                            ocrd workspace add -g P0001 -G OCR-D-GT-SEG-BLOCK -i OCR-D-GT-SEG-BLOCK_0001 -m text/xml /home/runner/work/reichsanzeiger-gt/reichsanzeiger-gt/data/PPN477366015/GT-PAGE/477366015_0003.xml
                             cd /home/runner/work/reichsanzeiger-gt/reichsanzeiger-gt/data/PPN477380670/
                             wget https://digi.bib.uni-mannheim.de/fileadmin/digi/477380670/default/477380670_0114.jpg -O GT-PAGE/477380670_0114.jpg
                             ocrd workspace add -g P0002 -G DEFAULT -i DEFAULT_0002 -m image/jpg GT-PAGE/477380670_0114.jpg
