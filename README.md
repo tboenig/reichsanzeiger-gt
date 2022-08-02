@@ -46,15 +46,17 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
             <th>TextLine</th>
             <th>Page</th>
             <th>TxtRegion</th>
+            <th>GraphRegion</th>
             <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>329</td>
-            <td>1</td>
-            <td>28</td>
-            <td>11</td>
+            <td>3321</td>
+            <td>5</td>
+            <td>411</td>
+            <td>3</td>
+            <td>188</td>
          </tr>
       </tbody>
    </table>
@@ -67,6 +69,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                <tr>
                   <th>document</th>
                   <th>TxtRegion</th>
+                  <th>GraphRegion</th>
                   <th>SepRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
@@ -78,6 +81,35 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>28</td>
                   <td>11</td>
                   <td>329</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1834_239</td>
+                  <td>119</td>
+                  <td>61</td>
+                  <td>737</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1841_81</td>
+                  <td>26</td>
+                  <td>26</td>
+                  <td>737</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1843_142</td>
+                  <td>75</td>
+                  <td>3</td>
+                  <td>35</td>
+                  <td>736</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1835_319</td>
+                  <td>163</td>
+                  <td>55</td>
+                  <td>782</td>
                   <td>1</td>
                </tr>
             </tbody>
