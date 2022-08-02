@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-    <Metadata>
-        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=04_07_2022_13:13
-prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=04_07_2022_13:13
-Transkribus</Creator>
-        <Created>2021-12-14T11:22:44.597+01:00</Created>
-        <LastChange>2022-07-04T13:47:46.526+02:00</LastChange>
-        <Comments>
-                Measurement unit: pixel
-                PrimaryLanguage: 
-                Producer: Transkribus
-            </Comments>
-        <TranskribusMetadata docId="1081348" pageId="44631309" pageNr="1" tsid="91096992" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=PCXOIGGOMBDWXHBKDAWJZBMH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YJVMJDSDCFPDELTTOTPAWHGH" imageId="36163577"/>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata externalRef="https://files.transkribus.eu/Get?id=PCXOIGGOMBDWXHBKDAWJZBMH">
+        <Creator>Test</Creator>
+        <Created>2022-07-03T16:22:41.806976+00:00</Created>
+        <LastChange>2022-07-03T16:22:41.806997+00:00</LastChange>
+        
+        
+        <!--<TranskribusMetadata docId="1081348" pageId="44631309" pageNr="1" tsid="91096992" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=PCXOIGGOMBDWXHBKDAWJZBMH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YJVMJDSDCFPDELTTOTPAWHGH" imageId="36163577"/>-->
     </Metadata>
     <Page imageFilename="1820_84_0220.jpg" imageWidth="8344" imageHeight="7440">
         <PrintSpace>
