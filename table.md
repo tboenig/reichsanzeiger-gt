@@ -211,6 +211,76 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
          </thead>
          <tbody>
             <tr>
+               <th>1829_73</th>
+               <td>329</td>
+               <td>1</td>
+               <td>28</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>11</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/main/data/1829_73/GT-PAGE/1829_73_0295.xml">1829_73_0295.xml</a>
+                           </td>
+                           <td>329</td>
+                           <td>1</td>
+                           <td>28</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>11</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
                <th>PPN477366015</th>
                <td>260</td>
                <td>1</td>
