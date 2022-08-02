@@ -74,7 +74,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
             </thead>
             <tbody>
                <tr>
-                  <td>reichsanzeigerGT182084</td>
+                  <td>PPN477366015</td>
                   <td>38</td>
                   <td>26</td>
                   <td>260</td>
