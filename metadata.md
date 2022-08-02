@@ -101,9 +101,9 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
       </thead>
       <tbody>
          <tr>
-            <td>260</td>
-            <td>1</td>
-            <td>38</td>
+            <td>864</td>
+            <td>21</td>
+            <td>99</td>
             <td>26</td>
          </tr>
       </tbody>
