@@ -74,6 +74,16 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lySeparatoren.html"
                          target="_blank">SeperatorRegion</a>
                   </dd>
+                  <dt>AdRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyWerbung.html"
+                         target="_blank">AdvertRegion</a>
+                  </dd>
+                  <dt>NoiseRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyRauschen.html"
+                         target="_blank">NoiseRegion</a>
+                  </dd>
                </dl>
             </details>
          </td>
@@ -94,6 +104,12 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
                   <i>SepRegion</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide13')">
+                  <i>AdRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide14')">
+                  <i>NoiseRegion</i>
+               </button>
             </div>
          </td>
       </tr>
@@ -106,15 +122,19 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
             <th>TxtRegion</th>
             <th>GraphRegion</th>
             <th>SepRegion</th>
+            <th>AdRegion</th>
+            <th>NoiseRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>3321</td>
-            <td>5</td>
-            <td>411</td>
-            <td>3</td>
-            <td>188</td>
+            <td>68003</td>
+            <td>63</td>
+            <td>36857</td>
+            <td>30</td>
+            <td>4584</td>
+            <td>2</td>
+            <td>1</td>
          </tr>
       </tbody>
    </table>
