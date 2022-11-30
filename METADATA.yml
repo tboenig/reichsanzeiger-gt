@@ -69,11 +69,6 @@ format: Page-XML
 sources:
   - reference: ''
     link: 'link: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/'
-volume:
-  - metric: lines
-    count: 68000
-  - metric: pages
-    count: 128
 transcription-guidelines: >-
   The transcription rules are based on the OCR-D transcription guidelines Level
   2 with some exceptions (see below No. 2):
