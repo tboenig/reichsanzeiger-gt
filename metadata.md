@@ -63,7 +63,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/reichsanzeiger-gt/releases/download/v31/bagitDump-v31.zip">Current version download: bagitDump-v31.zip</a>
+         <a href="https://github.com/tboenig/reichsanzeiger-gt/releases/download/v34/bagitDump-v34.zip">Current version download: bagitDump-v34.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/reichsanzeiger-gt/releases">Version archive</a>
