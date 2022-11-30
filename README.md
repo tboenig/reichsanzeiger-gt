@@ -91,269 +91,22 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
             </thead>
             <tbody>
                <tr>
-                  <td>1829_73</td>
-                  <td>28</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>11</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>329</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1834_239</td>
-                  <td>119</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>61</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>737</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1871_65</td>
-                  <td>72</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>37</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>560</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>1900_160</td>
-                  <td>3121</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>126</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3410</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1844_214</td>
-                  <td>85</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>722</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1893_78</td>
-                  <td>1591</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>296</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2714</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>1870_245</td>
-                  <td>17</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>12</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>328</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1887_168</td>
-                  <td>367</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>66</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1048</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1841_81</td>
-                  <td>26</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>737</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1871_59</td>
-                  <td>30</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>334</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1871_104</td>
-                  <td>370</td>
+                  <td>1847_130</td>
+                  <td>60</td>
                   <td/>
                   <td/>
                   <td>3</td>
                   <td/>
                   <td/>
-                  <td>124</td>
+                  <td>46</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>467</td>
                   <td>1</td>
-               </tr>
-               <tr>
-                  <td>1876_158</td>
-                  <td>2628</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>164</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2815</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1843_142</td>
-                  <td>75</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td>35</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>736</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1893_2</td>
-                  <td>377</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>129</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1030</td>
+                  <td>720</td>
                   <td>1</td>
                </tr>
                <tr>
@@ -376,308 +129,23 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>1</td>
                </tr>
                <tr>
-                  <td>1870_244</td>
-                  <td>19</td>
+                  <td>1889_1</td>
+                  <td>1761</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>13</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>197</td>
                   <td>1</td>
-               </tr>
-               <tr>
-                  <td>1879_45</td>
-                  <td>1855</td>
                   <td/>
                   <td/>
+                  <td>158</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td>237</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1966</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1876_174</td>
-                  <td>17</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>19</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>750</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1875_2</td>
-                  <td>3268</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>233</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3540</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1857_132</td>
-                  <td>101</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>349</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1906_260</td>
-                  <td>921</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>273</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1432</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1885_5</td>
-                  <td>266</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>35</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1758</td>
+                  <td>2848</td>
                   <td>2</td>
-               </tr>
-               <tr>
-                  <td>1891_33</td>
-                  <td>209</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>897</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1871_19</td>
-                  <td>166</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>56</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>416</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1883_3</td>
-                  <td>738</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>116</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>1887</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>1887_134</td>
-                  <td>425</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>62</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1074</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1883_55</td>
-                  <td>3432</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>44</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3647</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1873_1</td>
-                  <td>119</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>60</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>479</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1875_1</td>
-                  <td>375</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>150</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1453</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1885_1</td>
-                  <td>858</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>142</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2098</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>1870_14</td>
-                  <td>613</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>132</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>775</td>
-                  <td>1</td>
                </tr>
                <tr>
                   <td>1881_1</td>
@@ -699,33 +167,14 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>1</td>
                </tr>
                <tr>
-                  <td>1835_319</td>
-                  <td>163</td>
+                  <td>1879_247</td>
+                  <td>162</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>55</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>782</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1887_52</td>
-                  <td>2148</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>83</td>
+                  <td>26</td>
                   <td/>
                   <td/>
                   <td/>
@@ -733,26 +182,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td/>
                   <td/>
                   <td/>
-                  <td>2442</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1887_1</td>
-                  <td>190</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>58</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>955</td>
+                  <td>861</td>
                   <td>1</td>
                </tr>
                <tr>
@@ -775,6 +205,158 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>2</td>
                </tr>
                <tr>
+                  <td>1883_3</td>
+                  <td>738</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>116</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>1887</td>
+                  <td>2</td>
+               </tr>
+               <tr>
+                  <td>1887_1</td>
+                  <td>190</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>58</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>955</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1881_115</td>
+                  <td>186</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>57</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>808</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1876_174</td>
+                  <td>17</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>19</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>750</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1887_52</td>
+                  <td>2148</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2442</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1871_59</td>
+                  <td>30</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>334</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1883_55</td>
+                  <td>3432</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>44</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3647</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1887_168</td>
+                  <td>367</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>66</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1048</td>
+                  <td>1</td>
+               </tr>
+               <tr>
                   <td>1870_138</td>
                   <td>778</td>
                   <td/>
@@ -791,6 +373,44 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td/>
                   <td/>
                   <td>975</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1893_78</td>
+                  <td>1591</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>296</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2714</td>
+                  <td>2</td>
+               </tr>
+               <tr>
+                  <td>1879_1</td>
+                  <td>485</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>77</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1279</td>
                   <td>1</td>
                </tr>
                <tr>
@@ -813,52 +433,14 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>1</td>
                </tr>
                <tr>
-                  <td>1873_69</td>
-                  <td>550</td>
+                  <td>1891_33</td>
+                  <td>209</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>140</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1109</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1877_115</td>
-                  <td>849</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>278</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2008</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>1878_249</td>
-                  <td>141</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>63</td>
+                  <td>28</td>
                   <td/>
                   <td/>
                   <td/>
@@ -866,26 +448,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td/>
                   <td/>
                   <td/>
-                  <td>1494</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>1847_130</td>
-                  <td>60</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td>46</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>720</td>
+                  <td>897</td>
                   <td>1</td>
                </tr>
                <tr>
@@ -908,52 +471,33 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>1</td>
                </tr>
                <tr>
-                  <td>1906_1</td>
-                  <td>88</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>61</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1085</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1889_1</td>
-                  <td>1761</td>
+                  <td>1877_115</td>
+                  <td>849</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>158</td>
+                  <td>278</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>2848</td>
+                  <td>2008</td>
                   <td>2</td>
                </tr>
                <tr>
-                  <td>1885_120</td>
-                  <td>1744</td>
+                  <td>1887_134</td>
+                  <td>425</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>148</td>
+                  <td>62</td>
                   <td/>
                   <td/>
                   <td/>
@@ -961,37 +505,18 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td/>
                   <td/>
                   <td/>
-                  <td>1503</td>
+                  <td>1074</td>
                   <td>1</td>
                </tr>
                <tr>
-                  <td>1871_22</td>
-                  <td>171</td>
+                  <td>1843_142</td>
+                  <td>75</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>3</td>
                   <td/>
                   <td/>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>388</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>1877_7</td>
-                  <td>2152</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>36</td>
+                  <td>35</td>
                   <td/>
                   <td/>
                   <td/>
@@ -999,7 +524,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td/>
                   <td/>
                   <td/>
-                  <td>2610</td>
+                  <td>736</td>
                   <td>1</td>
                </tr>
                <tr>
@@ -1022,14 +547,14 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>1</td>
                </tr>
                <tr>
-                  <td>1879_1</td>
-                  <td>485</td>
+                  <td>1875_2</td>
+                  <td>3268</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>77</td>
+                  <td>233</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1037,7 +562,102 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td/>
                   <td/>
                   <td/>
-                  <td>1279</td>
+                  <td>3540</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1876_158</td>
+                  <td>2628</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>164</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2815</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1879_45</td>
+                  <td>1855</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>237</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1966</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1834_239</td>
+                  <td>119</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>61</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>737</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1870_14</td>
+                  <td>613</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>132</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>775</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1871_104</td>
+                  <td>370</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>124</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>467</td>
                   <td>1</td>
                </tr>
                <tr>
@@ -1079,8 +699,141 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>1</td>
                </tr>
                <tr>
-                  <td>1879_247</td>
-                  <td>162</td>
+                  <td>1857_132</td>
+                  <td>101</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>349</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1875_1</td>
+                  <td>375</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>150</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1453</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1844_214</td>
+                  <td>85</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>722</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1873_69</td>
+                  <td>550</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>140</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1109</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1906_1</td>
+                  <td>88</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>61</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1085</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1885_120</td>
+                  <td>1744</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>148</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1503</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1877_7</td>
+                  <td>2152</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>36</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2610</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1841_81</td>
+                  <td>26</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1094,18 +847,189 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td/>
                   <td/>
                   <td/>
-                  <td>861</td>
+                  <td>737</td>
                   <td>1</td>
                </tr>
                <tr>
-                  <td>1881_115</td>
-                  <td>186</td>
+                  <td>1893_2</td>
+                  <td>377</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>129</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1030</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1900_160</td>
+                  <td>3121</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>126</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3410</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1835_319</td>
+                  <td>163</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>55</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>782</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1873_1</td>
+                  <td>119</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>60</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>479</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1878_249</td>
+                  <td>141</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>63</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1494</td>
+                  <td>2</td>
+               </tr>
+               <tr>
+                  <td>1871_19</td>
+                  <td>166</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>56</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>416</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1906_260</td>
+                  <td>921</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>273</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1432</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1885_1</td>
+                  <td>858</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>142</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2098</td>
+                  <td>2</td>
+               </tr>
+               <tr>
+                  <td>1871_22</td>
+                  <td>171</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>388</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1871_65</td>
+                  <td>72</td>
                   <td/>
                   <td/>
                   <td>2</td>
                   <td/>
                   <td/>
-                  <td>57</td>
+                  <td>37</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1113,8 +1037,84 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td/>
                   <td/>
                   <td/>
-                  <td>808</td>
+                  <td>560</td>
+                  <td>2</td>
+               </tr>
+               <tr>
+                  <td>1829_73</td>
+                  <td>28</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>11</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>329</td>
                   <td>1</td>
+               </tr>
+               <tr>
+                  <td>1870_244</td>
+                  <td>19</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>13</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>197</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1870_245</td>
+                  <td>17</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>328</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>1885_5</td>
+                  <td>266</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>35</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1758</td>
+                  <td>2</td>
                </tr>
             </tbody>
          </table>
