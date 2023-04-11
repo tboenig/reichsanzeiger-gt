@@ -23,9 +23,20 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
          <dt>Transcription Guidelines:</dt>
          <dd>All transcriptions were created using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). The  transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html)  with some exceptions (see below):
 1) Special characters:
-- Long s (ſ) - Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £ - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞) - R rotunda (ꝛ) - Combining Latin Small Letter E for old German Umlaut ( ͤ ) - Dagger (†) - Black Right Pointing Index (☛) - Black Left Pointing Index (☚) - White square (□) - Superscript Numbers 0-9 (⁰¹²³⁴⁵⁶⁷⁸⁹)
+- Long s (ſ)
+- Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £
+- Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
+- R rotunda (ꝛ)
+- Combining Latin Small Letter E for old German Umlaut ( ͤ )
+- Dagger (†)
+- Black Right Pointing Index (☛)
+- Black Left Pointing Index (☚)
+- White square (□)
+- Superscript Numbers 0-9 (⁰¹²³⁴⁵⁶⁷⁸⁹)
 2) Normalizations:
-- Roman numerals ⅠⅤ Ⅹ Ⅼ Ⅽ Ⅾ Ⅿ --&gt; I V X L C D M   - Em dash (—) instead of En dash (–) - Asterisk (\*) used for both standard asterisk (\*) and tear-drop asterisk (✽)
+- Roman numerals ⅠⅤ Ⅹ Ⅼ Ⅽ Ⅾ Ⅿ --&gt; I V X L C D M  
+- Em dash (—) instead of En dash (–)
+- Asterisk (\*) used for both standard asterisk (\*) and tear-drop asterisk (✽)
 
 3) Additional characters transcribed true to original (contrary to OCR-D Level 2):
 - Double oblique hyphen (⸗)</dd>
@@ -54,7 +65,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/reichsanzeiger-gt/releases/download/v1.1.0/bagitDump-v40.zip">Current version download: bagitDump-v40.zip</a>
+         <a href="https://github.com/tboenig/reichsanzeiger-gt/releases/download/v1.1.1/bagitDump-v41.zip">Current version download: bagitDump-v41.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/reichsanzeiger-gt/releases">Version archive</a>
