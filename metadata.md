@@ -21,23 +21,14 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
       <summary>More Information</summary>
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
-         <dd>The transcription rules are based on the OCR-D transcription guidelines Level 2 with some exceptions (see below No. 2):
-
+         <dd>All transcriptions were created using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). The  transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html)  with some exceptions (see below):
 1) Special characters:
-- Long s (ſ)
-- German Mark (ℳ) and Pfennig (₰)
-- Fractions (½ ...)
-- R rotunda (ꝛ)
-- Combining Latin Small Letter E for old German Umlaut ( ͤ )
-- Dagger (†)
-- Black Right Pointing Index (☛)
-- Black Left Pointing Index (☚)
+- Long s (ſ) - Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £ - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞) - R rotunda (ꝛ) - Combining Latin Small Letter E for old German Umlaut ( ͤ ) - Dagger (†) - Black Right Pointing Index (☛) - Black Left Pointing Index (☚) - White square (□) - Superscript Numbers 0-9 (⁰¹²³⁴⁵⁶⁷⁸⁹)
+2) Normalizations:
+- Roman numerals ⅠⅤ Ⅹ Ⅼ Ⅽ Ⅾ Ⅿ --&gt; I V X L C D M   - Em dash (—) instead of En dash (–) - Asterisk (\*) used for both standard asterisk (\*) and tear-drop asterisk (✽)
 
-2) Additional characters transcribed true to original (contrary to OCR-D Level 2):
-- Roman numerals (ⅤⅬⅠⅩ Ⅿ)
-- Double oblique hyphen (⸗)
-- Em dash (—) instead of En dash (–)
-- Asterisk (*) used for both standard asterisk (*) and tear-drop asterisk (✽)</dd>
+3) Additional characters transcribed true to original (contrary to OCR-D Level 2):
+- Double oblique hyphen (⸗)</dd>
          <dt>License:</dt>
          <dd>CC0 1.0</dd>
          <dt>Project:</dt>
@@ -63,7 +54,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/reichsanzeiger-gt/releases/download/v34/bagitDump-v34.zip">Current version download: bagitDump-v34.zip</a>
+         <a href="https://github.com/tboenig/reichsanzeiger-gt/releases/download/v1.1.0/bagitDump-v40.zip">Current version download: bagitDump-v40.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/reichsanzeiger-gt/releases">Version archive</a>
@@ -91,6 +82,11 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lyGraphik.html"
                         target="_blank">GraphicRegion</a>
+                  </dd>
+                  <dt>TabRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyTabellen.html"
+                        target="_blank">TableRegion</a>
                   </dd>
                   <dt>SepRegion</dt>
                   <dd>
@@ -124,6 +120,9 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
                   <i>GraphRegion</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide7')">
+                  <i>TabRegion</i>
+               </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
                   <i>SepRegion</i>
                </button>
@@ -144,6 +143,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
             <th>Page</th>
             <th>TxtRegion</th>
             <th>GraphRegion</th>
+            <th>TabRegion</th>
             <th>SepRegion</th>
             <th>AdRegion</th>
             <th>NoiseRegion</th>
@@ -151,13 +151,14 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
       </thead>
       <tbody>
          <tr>
-            <td>68003</td>
-            <td>63</td>
-            <td>36857</td>
-            <td>30</td>
-            <td>4584</td>
+            <td>238858</td>
+            <td>202</td>
+            <td>74136</td>
+            <td>114</td>
+            <td>412</td>
+            <td>15738</td>
+            <td>4</td>
             <td>2</td>
-            <td>1</td>
          </tr>
       </tbody>
    </table>

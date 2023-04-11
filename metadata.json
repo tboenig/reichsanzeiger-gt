@@ -1,0 +1,118 @@
+{
+  "schema": "https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json",
+  "title": "reichsanzeiger-gt",
+  "url": "https://github.com/UB-Mannheim/reichsanzeiger-gt",
+  "authors": [
+    {
+      "name": "Kamlah",
+      "surname": "Jan",
+      "roles": [
+        "project-manager",
+        "support"
+      ]
+    },
+    {
+      "name": "Bartz",
+      "surname": "Franziska",
+      "roles": [
+        "transcriber"
+      ]
+    },
+    {
+      "name": "Costa de Sousa",
+      "surname": "André",
+      "roles": [
+        "transcriber"
+      ]
+    },
+    {
+      "name": "Ochkovskij",
+      "surname": "Sergej",
+      "roles": [
+        "transcriber"
+      ]
+    },
+    {
+      "name": "Öztürk",
+      "surname": "Dilara",
+      "roles": [
+        "transcriber"
+      ]
+    },
+    {
+      "name": "Schmidt",
+      "surname": "Thomas",
+      "roles": [
+        "project-manager",
+        "quality-control"
+      ]
+    }
+  ],
+  "description": "reichsanzeiger-gt provides ground truth for the historical German newspaper \"Deutscher Reichsanzeiger und Preußischer Staatsanzeiger\" (German Imperial Gazette and Prussian Official Gazette), which was published under changing names from 1819 to 1945. The ground truth dataset provides PAGE-XMLs and URLs for the corresponding newspaper scans/images. On this day (20th July 2022) the dataset contains 64 double pages (~68.000 lines) of ground truth.\n\nReichsanzeiger-GT is a work in progress. Additional ground truth will be added in the near future.",
+  "project-name": "OCR-D \"Workflow for work-specific training based on generic models with OCR-D   and ground truth enhancement\"",
+  "project-website": "https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/ocr-d-modelltraining/",
+  "language": [
+    "eng",
+    "fra",
+    "deu",
+    "por",
+    "lat"
+  ],
+  "script": [
+    "Latn",
+    "Latf"
+  ],
+  "script-type": "print",
+  "time": {
+    "notBefore": "1820",
+    "notAfter": "1906"
+  },
+  "hands": {
+    "count": "more-than-3",
+    "level": "levelmix"
+  },
+  "license": [
+    {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/licenses/zero/1.0/"
+    }
+  ],
+  "gtTyp": "data_structure_and_text",
+  "format": "Page-XML",
+  "sources": [
+    {
+      "reference": "",
+      "link": "link: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/"
+    }
+  ],
+  "transcription-guidelines": "All transcriptions were created using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). The  transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html)  with some exceptions (see below):\n1) Special characters:\n- Long s (ſ) - Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £ - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞) - R rotunda (ꝛ) - Combining Latin Small Letter E for old German Umlaut ( ͤ ) - Dagger (†) - Black Right Pointing Index (☛) - Black Left Pointing Index (☚) - White square (□) - Superscript Numbers 0-9 (⁰¹²³⁴⁵⁶⁷⁸⁹)\n2) Normalizations:\n- Roman numerals ⅠⅤ Ⅹ Ⅼ Ⅽ Ⅾ Ⅿ --&gt; I V X L C D M   - Em dash (—) instead of En dash (–) - Asterisk (\\*) used for both standard asterisk (\\*) and tear-drop asterisk (✽)\n\n3) Additional characters transcribed true to original (contrary to OCR-D Level 2):\n- Double oblique hyphen (⸗)",
+  "volume": {
+    "TxtRegion": "74136",
+    "GraphRegion": "114",
+    "TabRegion": "412",
+    "SepRegion": "15738",
+    "AdRegion": "4",
+    "NoiseRegion": "2",
+    "TextLine": "238858",
+    "Page": "202"
+  },
+  "labelling": [
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/text",
+    "activityDomain/computing/visual/analysisRecognition/ocr",
+    "activityDomain/computing/visual/analysisRecognition/tables",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/text",
+    "contentOfInterest/visual/graphical",
+    "contentOfInterest/visual/graphical/separator",
+    "contentOfInterest/visual/composite/tables",
+    "granularity/physical/document-related/page",
+    "granularity/physical/document-related/text-line",
+    "granularity/logical/document-related/paragraph",
+    "data-attributes/document-related/structural/footnotes",
+    "data-attributes/document-related/structural/running-titles",
+    "data-attributes/document-related/visual/text/font/typeface/antiqua"
+  ]
+}
