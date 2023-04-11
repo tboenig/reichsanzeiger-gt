@@ -1122,11 +1122,11 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
    </div>
    <div id="extent">
       <h2>Images</h2>
-      <p>Images can be downloaded via script</p>
+      <p>Images can be downloaded via script<br/>
       <tt>./download_images.sh</tt></p>
    
    <h2>Data Dump</h2>
    <p>You can download a so-called data dump (bagitDump.zip) with the release.<br/> 
-      This dump contains all ground truth data, the metadata (METS file), PAGE XML files and the images.
+      This dump contains all ground truth data, the metadata (METS file), PAGE XML files and the images.</p>
    </div>
 </div>
