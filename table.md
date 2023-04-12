@@ -33,7 +33,9 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
          <dd>All transcriptions were created using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). The  transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html)  with some exceptions (see below):
-1) Special characters:
+
+  1) Special characters:
+
 - Long s (ſ)
 - Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £
 - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
@@ -44,12 +46,18 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
 - Black Left Pointing Index (☚)
 - White square (□)
 - Superscript Numbers 0-9 (⁰¹²³⁴⁵⁶⁷⁸⁹)
-2) Normalizations:
+
+
+  2) Normalizations:
+
 - Roman numerals ⅠⅤ Ⅹ Ⅼ Ⅽ Ⅾ Ⅿ --&gt; I V X L C D M  
 - Em dash (—) instead of En dash (–)
 - Asterisk (\*) used for both standard asterisk (\*) and tear-drop asterisk (✽)
 
-3) Additional characters transcribed true to original (contrary to OCR-D Level 2):
+
+
+  3) Additional characters transcribed true to original (contrary to OCR-D Level 2):
+
 - Double oblique hyphen (⸗)</dd>
          <dt>License:</dt>
          <dd>CC0 1.0</dd>
@@ -259,7 +267,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1904_263_0459.xml">1904_263_0459.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1904_263_0459.xml">1904_263_0459.xml</a>
                            </td>
                            <td>429</td>
                            <td>1</td>
@@ -280,7 +288,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1906_260_0025.xml">1906_260_0025.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1906_260_0025.xml">1906_260_0025.xml</a>
                            </td>
                            <td>1432</td>
                            <td>1</td>
@@ -301,7 +309,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1912_1_0031.xml">1912_1_0031.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1912_1_0031.xml">1912_1_0031.xml</a>
                            </td>
                            <td>836</td>
                            <td>1</td>
@@ -322,7 +330,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1912_2_0033.xml">1912_2_0033.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1912_2_0033.xml">1912_2_0033.xml</a>
                            </td>
                            <td>1825</td>
                            <td>1</td>
@@ -343,7 +351,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1878_248_0443.xml">1878_248_0443.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1878_248_0443.xml">1878_248_0443.xml</a>
                            </td>
                            <td>757</td>
                            <td>1</td>
@@ -364,7 +372,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1870_138_0554.xml">1870_138_0554.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1870_138_0554.xml">1870_138_0554.xml</a>
                            </td>
                            <td>974</td>
                            <td>1</td>
@@ -385,7 +393,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1910_2_0031.xml">1910_2_0031.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1910_2_0031.xml">1910_2_0031.xml</a>
                            </td>
                            <td>875</td>
                            <td>1</td>
@@ -406,7 +414,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1936_124_0299.xml">1936_124_0299.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1936_124_0299.xml">1936_124_0299.xml</a>
                            </td>
                            <td>1939</td>
                            <td>1</td>
@@ -427,7 +435,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1841_81_0181.xml">1841_81_0181.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1841_81_0181.xml">1841_81_0181.xml</a>
                            </td>
                            <td>737</td>
                            <td>1</td>
@@ -448,7 +456,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1870_245_0433.xml">1870_245_0433.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1870_245_0433.xml">1870_245_0433.xml</a>
                            </td>
                            <td>328</td>
                            <td>1</td>
@@ -469,7 +477,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1938_66_0181.xml">1938_66_0181.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1938_66_0181.xml">1938_66_0181.xml</a>
                            </td>
                            <td>1524</td>
                            <td>1</td>
@@ -490,7 +498,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1829_73_0295.xml">1829_73_0295.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1829_73_0295.xml">1829_73_0295.xml</a>
                            </td>
                            <td>329</td>
                            <td>1</td>
@@ -511,7 +519,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1877_7_0059.xml">1877_7_0059.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1877_7_0059.xml">1877_7_0059.xml</a>
                            </td>
                            <td>2609</td>
                            <td>1</td>
@@ -532,7 +540,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_19_0143.xml">1871_19_0143.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_19_0143.xml">1871_19_0143.xml</a>
                            </td>
                            <td>416</td>
                            <td>1</td>
@@ -553,7 +561,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_1_0015.xml">1918_1_0015.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_1_0015.xml">1918_1_0015.xml</a>
                            </td>
                            <td>1043</td>
                            <td>1</td>
@@ -574,7 +582,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1885_1_0008.xml">1885_1_0008.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1885_1_0008.xml">1885_1_0008.xml</a>
                            </td>
                            <td>1227</td>
                            <td>1</td>
@@ -595,7 +603,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1878_249_0449.xml">1878_249_0449.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1878_249_0449.xml">1878_249_0449.xml</a>
                            </td>
                            <td>748</td>
                            <td>1</td>
@@ -616,7 +624,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1834_239_0518.xml">1834_239_0518.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1834_239_0518.xml">1834_239_0518.xml</a>
                            </td>
                            <td>736</td>
                            <td>1</td>
@@ -637,7 +645,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1932_300_0488.xml">1932_300_0488.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1932_300_0488.xml">1932_300_0488.xml</a>
                            </td>
                            <td>2683</td>
                            <td>1</td>
@@ -658,7 +666,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1879_45_0344.xml">1879_45_0344.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1879_45_0344.xml">1879_45_0344.xml</a>
                            </td>
                            <td>1966</td>
                            <td>1</td>
@@ -679,7 +687,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1883_3_0036.xml">1883_3_0036.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1883_3_0036.xml">1883_3_0036.xml</a>
                            </td>
                            <td>1106</td>
                            <td>1</td>
@@ -700,7 +708,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1916_166_0035.xml">1916_166_0035.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1916_166_0035.xml">1916_166_0035.xml</a>
                            </td>
                            <td>1089</td>
                            <td>1</td>
@@ -721,7 +729,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_266_0126.xml">1918_266_0126.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_266_0126.xml">1918_266_0126.xml</a>
                            </td>
                            <td>673</td>
                            <td>1</td>
@@ -742,7 +750,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1881_1_0662.xml">1881_1_0662.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1881_1_0662.xml">1881_1_0662.xml</a>
                            </td>
                            <td>1009</td>
                            <td>1</td>
@@ -763,7 +771,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_65_0045.xml">1871_65_0045.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_65_0045.xml">1871_65_0045.xml</a>
                            </td>
                            <td>291</td>
                            <td>1</td>
@@ -784,7 +792,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1844_214_0615.xml">1844_214_0615.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1844_214_0615.xml">1844_214_0615.xml</a>
                            </td>
                            <td>722</td>
                            <td>1</td>
@@ -805,7 +813,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1932_5_0036.xml">1932_5_0036.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1932_5_0036.xml">1932_5_0036.xml</a>
                            </td>
                            <td>5469</td>
                            <td>1</td>
@@ -826,7 +834,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1857_132_0507.xml">1857_132_0507.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1857_132_0507.xml">1857_132_0507.xml</a>
                            </td>
                            <td>349</td>
                            <td>1</td>
@@ -847,7 +855,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1878_248_0442.xml">1878_248_0442.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1878_248_0442.xml">1878_248_0442.xml</a>
                            </td>
                            <td>775</td>
                            <td>1</td>
@@ -868,7 +876,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1878_249_0450.xml">1878_249_0450.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1878_249_0450.xml">1878_249_0450.xml</a>
                            </td>
                            <td>746</td>
                            <td>1</td>
@@ -889,7 +897,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1887_52_0313.xml">1887_52_0313.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1887_52_0313.xml">1887_52_0313.xml</a>
                            </td>
                            <td>2442</td>
                            <td>1</td>
@@ -910,7 +918,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1885_5_0055.xml">1885_5_0055.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1885_5_0055.xml">1885_5_0055.xml</a>
                            </td>
                            <td>880</td>
                            <td>1</td>
@@ -931,7 +939,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_22_0169.xml">1871_22_0169.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_22_0169.xml">1871_22_0169.xml</a>
                            </td>
                            <td>388</td>
                            <td>1</td>
@@ -952,7 +960,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1887_1_0330.xml">1887_1_0330.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1887_1_0330.xml">1887_1_0330.xml</a>
                            </td>
                            <td>955</td>
                            <td>1</td>
@@ -973,7 +981,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_192_0589.xml">1914_192_0589.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_192_0589.xml">1914_192_0589.xml</a>
                            </td>
                            <td>683</td>
                            <td>1</td>
@@ -994,7 +1002,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_267_0129.xml">1918_267_0129.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_267_0129.xml">1918_267_0129.xml</a>
                            </td>
                            <td>921</td>
                            <td>1</td>
@@ -1015,7 +1023,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1843_142_0207.xml">1843_142_0207.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1843_142_0207.xml">1843_142_0207.xml</a>
                            </td>
                            <td>736</td>
                            <td>1</td>
@@ -1036,7 +1044,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1875_1_0013.xml">1875_1_0013.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1875_1_0013.xml">1875_1_0013.xml</a>
                            </td>
                            <td>1453</td>
                            <td>1</td>
@@ -1057,7 +1065,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1820_84_0220.xml">1820_84_0220.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1820_84_0220.xml">1820_84_0220.xml</a>
                            </td>
                            <td>260</td>
                            <td>1</td>
@@ -1078,7 +1086,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1912_74_0150.xml">1912_74_0150.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1912_74_0150.xml">1912_74_0150.xml</a>
                            </td>
                            <td>780</td>
                            <td>1</td>
@@ -1099,7 +1107,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1889_1_0018.xml">1889_1_0018.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1889_1_0018.xml">1889_1_0018.xml</a>
                            </td>
                            <td>1175</td>
                            <td>1</td>
@@ -1120,7 +1128,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1879_2_0016.xml">1879_2_0016.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1879_2_0016.xml">1879_2_0016.xml</a>
                            </td>
                            <td>736</td>
                            <td>1</td>
@@ -1141,7 +1149,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_180_0471.xml">1914_180_0471.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_180_0471.xml">1914_180_0471.xml</a>
                            </td>
                            <td>21</td>
                            <td>1</td>
@@ -1162,7 +1170,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1938_1_0006.xml">1938_1_0006.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1938_1_0006.xml">1938_1_0006.xml</a>
                            </td>
                            <td>856</td>
                            <td>1</td>
@@ -1183,7 +1191,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1910_299_0335.xml">1910_299_0335.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1910_299_0335.xml">1910_299_0335.xml</a>
                            </td>
                            <td>1561</td>
                            <td>1</td>
@@ -1204,7 +1212,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1922_4_0057.xml">1922_4_0057.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1922_4_0057.xml">1922_4_0057.xml</a>
                            </td>
                            <td>1263</td>
                            <td>1</td>
@@ -1225,7 +1233,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1873_1_0017.xml">1873_1_0017.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1873_1_0017.xml">1873_1_0017.xml</a>
                            </td>
                            <td>479</td>
                            <td>1</td>
@@ -1246,7 +1254,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_72_0794.xml">1918_72_0794.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_72_0794.xml">1918_72_0794.xml</a>
                            </td>
                            <td>1677</td>
                            <td>1</td>
@@ -1267,7 +1275,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_268_0134.xml">1918_268_0134.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_268_0134.xml">1918_268_0134.xml</a>
                            </td>
                            <td>264</td>
                            <td>1</td>
@@ -1288,7 +1296,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1906_1_0010.xml">1906_1_0010.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1906_1_0010.xml">1906_1_0010.xml</a>
                            </td>
                            <td>1085</td>
                            <td>1</td>
@@ -1309,7 +1317,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1891_1_0001.xml">1891_1_0001.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1891_1_0001.xml">1891_1_0001.xml</a>
                            </td>
                            <td>264</td>
                            <td>1</td>
@@ -1330,7 +1338,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1924_307_0396.xml">1924_307_0396.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1924_307_0396.xml">1924_307_0396.xml</a>
                            </td>
                            <td>1249</td>
                            <td>1</td>
@@ -1351,7 +1359,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1939_202_0006.xml">1939_202_0006.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1939_202_0006.xml">1939_202_0006.xml</a>
                            </td>
                            <td>723</td>
                            <td>1</td>
@@ -1372,7 +1380,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1881_115_0163.xml">1881_115_0163.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1881_115_0163.xml">1881_115_0163.xml</a>
                            </td>
                            <td>810</td>
                            <td>1</td>
@@ -1393,7 +1401,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1920_147_0606.xml">1920_147_0606.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1920_147_0606.xml">1920_147_0606.xml</a>
                            </td>
                            <td>751</td>
                            <td>1</td>
@@ -1414,7 +1422,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_180_0470.xml">1914_180_0470.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_180_0470.xml">1914_180_0470.xml</a>
                            </td>
                            <td>682</td>
                            <td>1</td>
@@ -1435,7 +1443,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1928_4_0039.xml">1928_4_0039.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1928_4_0039.xml">1928_4_0039.xml</a>
                            </td>
                            <td>1193</td>
                            <td>1</td>
@@ -1456,7 +1464,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1870_14_0126.xml">1870_14_0126.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1870_14_0126.xml">1870_14_0126.xml</a>
                            </td>
                            <td>773</td>
                            <td>1</td>
@@ -1477,7 +1485,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1847_130_0342.xml">1847_130_0342.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1847_130_0342.xml">1847_130_0342.xml</a>
                            </td>
                            <td>720</td>
                            <td>1</td>
@@ -1498,7 +1506,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1926_161_0210.xml">1926_161_0210.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1926_161_0210.xml">1926_161_0210.xml</a>
                            </td>
                            <td>2456</td>
                            <td>1</td>
@@ -1519,7 +1527,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1875_2_0020.xml">1875_2_0020.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1875_2_0020.xml">1875_2_0020.xml</a>
                            </td>
                            <td>3540</td>
                            <td>1</td>
@@ -1540,7 +1548,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1930_113_0193.xml">1930_113_0193.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1930_113_0193.xml">1930_113_0193.xml</a>
                            </td>
                            <td>1144</td>
                            <td>1</td>
@@ -1561,7 +1569,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1876_174_0602.xml">1876_174_0602.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1876_174_0602.xml">1876_174_0602.xml</a>
                            </td>
                            <td>750</td>
                            <td>1</td>
@@ -1582,7 +1590,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1929_250_0019.xml">1929_250_0019.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1929_250_0019.xml">1929_250_0019.xml</a>
                            </td>
                            <td>3768</td>
                            <td>1</td>
@@ -1603,7 +1611,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1835_319_0682.xml">1835_319_0682.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1835_319_0682.xml">1835_319_0682.xml</a>
                            </td>
                            <td>782</td>
                            <td>1</td>
@@ -1624,7 +1632,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1870_244_0431.xml">1870_244_0431.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1870_244_0431.xml">1870_244_0431.xml</a>
                            </td>
                            <td>197</td>
                            <td>1</td>
@@ -1645,7 +1653,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1887_54_0333.xml">1887_54_0333.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1887_54_0333.xml">1887_54_0333.xml</a>
                            </td>
                            <td>760</td>
                            <td>1</td>
@@ -1666,7 +1674,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_155_0279.xml">1871_155_0279.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_155_0279.xml">1871_155_0279.xml</a>
                            </td>
                            <td>376</td>
                            <td>1</td>
@@ -1687,7 +1695,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_150_0748.xml">1914_150_0748.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_150_0748.xml">1914_150_0748.xml</a>
                            </td>
                            <td>691</td>
                            <td>1</td>
@@ -1708,7 +1716,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1885_120_0249.xml">1885_120_0249.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1885_120_0249.xml">1885_120_0249.xml</a>
                            </td>
                            <td>1503</td>
                            <td>1</td>
@@ -1729,7 +1737,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1879_1_0011.xml">1879_1_0011.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1879_1_0011.xml">1879_1_0011.xml</a>
                            </td>
                            <td>1279</td>
                            <td>1</td>
@@ -1750,7 +1758,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_268_0135.xml">1918_268_0135.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_268_0135.xml">1918_268_0135.xml</a>
                            </td>
                            <td>716</td>
                            <td>1</td>
@@ -1771,7 +1779,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_145_0673.xml">1914_145_0673.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_145_0673.xml">1914_145_0673.xml</a>
                            </td>
                            <td>4358</td>
                            <td>1</td>
@@ -1792,7 +1800,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1889_1_0019.xml">1889_1_0019.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1889_1_0019.xml">1889_1_0019.xml</a>
                            </td>
                            <td>1673</td>
                            <td>1</td>
@@ -1813,7 +1821,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1893_78_0497.xml">1893_78_0497.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1893_78_0497.xml">1893_78_0497.xml</a>
                            </td>
                            <td>1602</td>
                            <td>1</td>
@@ -1834,7 +1842,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_71_0779.xml">1918_71_0779.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1918_71_0779.xml">1918_71_0779.xml</a>
                            </td>
                            <td>794</td>
                            <td>1</td>
@@ -1855,7 +1863,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1926_71_0331.xml">1926_71_0331.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1926_71_0331.xml">1926_71_0331.xml</a>
                            </td>
                            <td>988</td>
                            <td>1</td>
@@ -1876,7 +1884,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1887_134_0444.xml">1887_134_0444.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1887_134_0444.xml">1887_134_0444.xml</a>
                            </td>
                            <td>1074</td>
                            <td>1</td>
@@ -1897,7 +1905,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1877_115_0137.xml">1877_115_0137.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1877_115_0137.xml">1877_115_0137.xml</a>
                            </td>
                            <td>960</td>
                            <td>1</td>
@@ -1918,7 +1926,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1893_2_0023.xml">1893_2_0023.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1893_2_0023.xml">1893_2_0023.xml</a>
                            </td>
                            <td>1030</td>
                            <td>1</td>
@@ -1939,7 +1947,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1879_247_0279.xml">1879_247_0279.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1879_247_0279.xml">1879_247_0279.xml</a>
                            </td>
                            <td>862</td>
                            <td>1</td>
@@ -1960,7 +1968,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1883_55_0044.xml">1883_55_0044.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1883_55_0044.xml">1883_55_0044.xml</a>
                            </td>
                            <td>3647</td>
                            <td>1</td>
@@ -1981,7 +1989,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_65_0046.xml">1871_65_0046.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_65_0046.xml">1871_65_0046.xml</a>
                            </td>
                            <td>269</td>
                            <td>1</td>
@@ -2002,7 +2010,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1876_158_0491.xml">1876_158_0491.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1876_158_0491.xml">1876_158_0491.xml</a>
                            </td>
                            <td>2815</td>
                            <td>1</td>
@@ -2023,7 +2031,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1891_5_0058.xml">1891_5_0058.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1891_5_0058.xml">1891_5_0058.xml</a>
                            </td>
                            <td>2337</td>
                            <td>1</td>
@@ -2044,7 +2052,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1891_33_0452.xml">1891_33_0452.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1891_33_0452.xml">1891_33_0452.xml</a>
                            </td>
                            <td>897</td>
                            <td>1</td>
@@ -2065,7 +2073,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1924_1_0006.xml">1924_1_0006.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1924_1_0006.xml">1924_1_0006.xml</a>
                            </td>
                            <td>1361</td>
                            <td>1</td>
@@ -2086,7 +2094,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1916_169_0087.xml">1916_169_0087.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1916_169_0087.xml">1916_169_0087.xml</a>
                            </td>
                            <td>879</td>
                            <td>1</td>
@@ -2107,7 +2115,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1936_123_0292.xml">1936_123_0292.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1936_123_0292.xml">1936_123_0292.xml</a>
                            </td>
                            <td>1841</td>
                            <td>1</td>
@@ -2128,7 +2136,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_59_0469.xml">1871_59_0469.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_59_0469.xml">1871_59_0469.xml</a>
                            </td>
                            <td>334</td>
                            <td>1</td>
@@ -2149,7 +2157,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1877_115_0136.xml">1877_115_0136.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1877_115_0136.xml">1877_115_0136.xml</a>
                            </td>
                            <td>1048</td>
                            <td>1</td>
@@ -2170,7 +2178,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1893_78_0481.xml">1893_78_0481.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1893_78_0481.xml">1893_78_0481.xml</a>
                            </td>
                            <td>1112</td>
                            <td>1</td>
@@ -2191,7 +2199,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1885_5_0054.xml">1885_5_0054.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1885_5_0054.xml">1885_5_0054.xml</a>
                            </td>
                            <td>878</td>
                            <td>1</td>
@@ -2212,7 +2220,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1873_69_0497.xml">1873_69_0497.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1873_69_0497.xml">1873_69_0497.xml</a>
                            </td>
                            <td>1109</td>
                            <td>1</td>
@@ -2233,7 +2241,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1887_168_0177.xml">1887_168_0177.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1887_168_0177.xml">1887_168_0177.xml</a>
                            </td>
                            <td>1048</td>
                            <td>1</td>
@@ -2254,7 +2262,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1938_41_0426.xml">1938_41_0426.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1938_41_0426.xml">1938_41_0426.xml</a>
                            </td>
                            <td>1489</td>
                            <td>1</td>
@@ -2275,7 +2283,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_178_0448.xml">1914_178_0448.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1914_178_0448.xml">1914_178_0448.xml</a>
                            </td>
                            <td>110</td>
                            <td>1</td>
@@ -2296,7 +2304,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_104_0417.xml">1871_104_0417.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1871_104_0417.xml">1871_104_0417.xml</a>
                            </td>
                            <td>468</td>
                            <td>1</td>
@@ -2317,7 +2325,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1883_3_0028.xml">1883_3_0028.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1883_3_0028.xml">1883_3_0028.xml</a>
                            </td>
                            <td>781</td>
                            <td>1</td>
@@ -2338,7 +2346,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1900_160_0099.xml">1900_160_0099.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1900_160_0099.xml">1900_160_0099.xml</a>
                            </td>
                            <td>3410</td>
                            <td>1</td>
@@ -2359,7 +2367,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1885_1_0007.xml">1885_1_0007.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939_with-TableRegion/GT-PAGE/1885_1_0007.xml">1885_1_0007.xml</a>
                            </td>
                            <td>871</td>
                            <td>1</td>
@@ -2429,7 +2437,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1904_263_0459.xml">1904_263_0459.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1904_263_0459.xml">1904_263_0459.xml</a>
                            </td>
                            <td>429</td>
                            <td>1</td>
@@ -2450,7 +2458,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1906_260_0025.xml">1906_260_0025.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1906_260_0025.xml">1906_260_0025.xml</a>
                            </td>
                            <td>1432</td>
                            <td>1</td>
@@ -2471,7 +2479,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1912_1_0031.xml">1912_1_0031.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1912_1_0031.xml">1912_1_0031.xml</a>
                            </td>
                            <td>836</td>
                            <td>1</td>
@@ -2492,7 +2500,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1912_2_0033.xml">1912_2_0033.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1912_2_0033.xml">1912_2_0033.xml</a>
                            </td>
                            <td>1825</td>
                            <td>1</td>
@@ -2513,7 +2521,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1878_248_0443.xml">1878_248_0443.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1878_248_0443.xml">1878_248_0443.xml</a>
                            </td>
                            <td>757</td>
                            <td>1</td>
@@ -2534,7 +2542,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1870_138_0554.xml">1870_138_0554.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1870_138_0554.xml">1870_138_0554.xml</a>
                            </td>
                            <td>974</td>
                            <td>1</td>
@@ -2555,7 +2563,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1910_2_0031.xml">1910_2_0031.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1910_2_0031.xml">1910_2_0031.xml</a>
                            </td>
                            <td>875</td>
                            <td>1</td>
@@ -2576,7 +2584,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1936_124_0299.xml">1936_124_0299.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1936_124_0299.xml">1936_124_0299.xml</a>
                            </td>
                            <td>1939</td>
                            <td>1</td>
@@ -2597,7 +2605,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1841_81_0181.xml">1841_81_0181.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1841_81_0181.xml">1841_81_0181.xml</a>
                            </td>
                            <td>737</td>
                            <td>1</td>
@@ -2618,7 +2626,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1870_245_0433.xml">1870_245_0433.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1870_245_0433.xml">1870_245_0433.xml</a>
                            </td>
                            <td>328</td>
                            <td>1</td>
@@ -2639,7 +2647,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1938_66_0181.xml">1938_66_0181.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1938_66_0181.xml">1938_66_0181.xml</a>
                            </td>
                            <td>1524</td>
                            <td>1</td>
@@ -2660,7 +2668,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1829_73_0295.xml">1829_73_0295.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1829_73_0295.xml">1829_73_0295.xml</a>
                            </td>
                            <td>329</td>
                            <td>1</td>
@@ -2681,7 +2689,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1877_7_0059.xml">1877_7_0059.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1877_7_0059.xml">1877_7_0059.xml</a>
                            </td>
                            <td>2609</td>
                            <td>1</td>
@@ -2702,7 +2710,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1871_19_0143.xml">1871_19_0143.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1871_19_0143.xml">1871_19_0143.xml</a>
                            </td>
                            <td>416</td>
                            <td>1</td>
@@ -2723,7 +2731,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1918_1_0015.xml">1918_1_0015.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1918_1_0015.xml">1918_1_0015.xml</a>
                            </td>
                            <td>1043</td>
                            <td>1</td>
@@ -2744,7 +2752,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1885_1_0008.xml">1885_1_0008.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1885_1_0008.xml">1885_1_0008.xml</a>
                            </td>
                            <td>1227</td>
                            <td>1</td>
@@ -2765,7 +2773,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1878_249_0449.xml">1878_249_0449.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1878_249_0449.xml">1878_249_0449.xml</a>
                            </td>
                            <td>748</td>
                            <td>1</td>
@@ -2786,7 +2794,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1834_239_0518.xml">1834_239_0518.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1834_239_0518.xml">1834_239_0518.xml</a>
                            </td>
                            <td>736</td>
                            <td>1</td>
@@ -2807,7 +2815,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1932_300_0488.xml">1932_300_0488.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1932_300_0488.xml">1932_300_0488.xml</a>
                            </td>
                            <td>2683</td>
                            <td>1</td>
@@ -2828,7 +2836,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1879_45_0344.xml">1879_45_0344.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1879_45_0344.xml">1879_45_0344.xml</a>
                            </td>
                            <td>1966</td>
                            <td>1</td>
@@ -2849,7 +2857,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1883_3_0036.xml">1883_3_0036.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1883_3_0036.xml">1883_3_0036.xml</a>
                            </td>
                            <td>1106</td>
                            <td>1</td>
@@ -2870,7 +2878,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1916_166_0035.xml">1916_166_0035.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1916_166_0035.xml">1916_166_0035.xml</a>
                            </td>
                            <td>1089</td>
                            <td>1</td>
@@ -2891,7 +2899,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1918_266_0126.xml">1918_266_0126.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1918_266_0126.xml">1918_266_0126.xml</a>
                            </td>
                            <td>673</td>
                            <td>1</td>
@@ -2912,7 +2920,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1881_1_0662.xml">1881_1_0662.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1881_1_0662.xml">1881_1_0662.xml</a>
                            </td>
                            <td>1009</td>
                            <td>1</td>
@@ -2933,7 +2941,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1871_65_0045.xml">1871_65_0045.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1871_65_0045.xml">1871_65_0045.xml</a>
                            </td>
                            <td>291</td>
                            <td>1</td>
@@ -2954,7 +2962,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1844_214_0615.xml">1844_214_0615.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1844_214_0615.xml">1844_214_0615.xml</a>
                            </td>
                            <td>722</td>
                            <td>1</td>
@@ -2975,7 +2983,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1932_5_0036.xml">1932_5_0036.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1932_5_0036.xml">1932_5_0036.xml</a>
                            </td>
                            <td>5469</td>
                            <td>1</td>
@@ -2996,7 +3004,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1857_132_0507.xml">1857_132_0507.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1857_132_0507.xml">1857_132_0507.xml</a>
                            </td>
                            <td>349</td>
                            <td>1</td>
@@ -3017,7 +3025,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1878_248_0442.xml">1878_248_0442.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1878_248_0442.xml">1878_248_0442.xml</a>
                            </td>
                            <td>775</td>
                            <td>1</td>
@@ -3038,7 +3046,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1878_249_0450.xml">1878_249_0450.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1878_249_0450.xml">1878_249_0450.xml</a>
                            </td>
                            <td>746</td>
                            <td>1</td>
@@ -3059,7 +3067,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1887_52_0313.xml">1887_52_0313.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1887_52_0313.xml">1887_52_0313.xml</a>
                            </td>
                            <td>2442</td>
                            <td>1</td>
@@ -3080,7 +3088,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1885_5_0055.xml">1885_5_0055.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1885_5_0055.xml">1885_5_0055.xml</a>
                            </td>
                            <td>880</td>
                            <td>1</td>
@@ -3101,7 +3109,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1871_22_0169.xml">1871_22_0169.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1871_22_0169.xml">1871_22_0169.xml</a>
                            </td>
                            <td>388</td>
                            <td>1</td>
@@ -3122,7 +3130,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1887_1_0330.xml">1887_1_0330.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1887_1_0330.xml">1887_1_0330.xml</a>
                            </td>
                            <td>955</td>
                            <td>1</td>
@@ -3143,7 +3151,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1914_192_0589.xml">1914_192_0589.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1914_192_0589.xml">1914_192_0589.xml</a>
                            </td>
                            <td>683</td>
                            <td>1</td>
@@ -3164,7 +3172,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1918_267_0129.xml">1918_267_0129.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1918_267_0129.xml">1918_267_0129.xml</a>
                            </td>
                            <td>921</td>
                            <td>1</td>
@@ -3185,7 +3193,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1843_142_0207.xml">1843_142_0207.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1843_142_0207.xml">1843_142_0207.xml</a>
                            </td>
                            <td>736</td>
                            <td>1</td>
@@ -3206,7 +3214,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1875_1_0013.xml">1875_1_0013.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1875_1_0013.xml">1875_1_0013.xml</a>
                            </td>
                            <td>1453</td>
                            <td>1</td>
@@ -3227,7 +3235,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1820_84_0220.xml">1820_84_0220.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1820_84_0220.xml">1820_84_0220.xml</a>
                            </td>
                            <td>260</td>
                            <td>1</td>
@@ -3248,7 +3256,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1912_74_0150.xml">1912_74_0150.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1912_74_0150.xml">1912_74_0150.xml</a>
                            </td>
                            <td>780</td>
                            <td>1</td>
@@ -3269,7 +3277,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1889_1_0018.xml">1889_1_0018.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1889_1_0018.xml">1889_1_0018.xml</a>
                            </td>
                            <td>1175</td>
                            <td>1</td>
@@ -3290,7 +3298,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1879_2_0016.xml">1879_2_0016.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1879_2_0016.xml">1879_2_0016.xml</a>
                            </td>
                            <td>736</td>
                            <td>1</td>
@@ -3311,7 +3319,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1914_180_0471.xml">1914_180_0471.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1914_180_0471.xml">1914_180_0471.xml</a>
                            </td>
                            <td>21</td>
                            <td>1</td>
@@ -3332,7 +3340,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1938_1_0006.xml">1938_1_0006.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1938_1_0006.xml">1938_1_0006.xml</a>
                            </td>
                            <td>856</td>
                            <td>1</td>
@@ -3353,7 +3361,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1910_299_0335.xml">1910_299_0335.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1910_299_0335.xml">1910_299_0335.xml</a>
                            </td>
                            <td>1561</td>
                            <td>1</td>
@@ -3374,7 +3382,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1922_4_0057.xml">1922_4_0057.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1922_4_0057.xml">1922_4_0057.xml</a>
                            </td>
                            <td>1263</td>
                            <td>1</td>
@@ -3395,7 +3403,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1873_1_0017.xml">1873_1_0017.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1873_1_0017.xml">1873_1_0017.xml</a>
                            </td>
                            <td>479</td>
                            <td>1</td>
@@ -3416,7 +3424,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1918_72_0794.xml">1918_72_0794.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1918_72_0794.xml">1918_72_0794.xml</a>
                            </td>
                            <td>1677</td>
                            <td>1</td>
@@ -3437,7 +3445,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1918_268_0134.xml">1918_268_0134.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1918_268_0134.xml">1918_268_0134.xml</a>
                            </td>
                            <td>264</td>
                            <td>1</td>
@@ -3458,7 +3466,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1906_1_0010.xml">1906_1_0010.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1906_1_0010.xml">1906_1_0010.xml</a>
                            </td>
                            <td>1085</td>
                            <td>1</td>
@@ -3479,7 +3487,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1891_1_0001.xml">1891_1_0001.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1891_1_0001.xml">1891_1_0001.xml</a>
                            </td>
                            <td>264</td>
                            <td>1</td>
@@ -3500,7 +3508,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1924_307_0396.xml">1924_307_0396.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1924_307_0396.xml">1924_307_0396.xml</a>
                            </td>
                            <td>1249</td>
                            <td>1</td>
@@ -3521,7 +3529,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1939_202_0006.xml">1939_202_0006.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1939_202_0006.xml">1939_202_0006.xml</a>
                            </td>
                            <td>723</td>
                            <td>1</td>
@@ -3542,7 +3550,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1881_115_0163.xml">1881_115_0163.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1881_115_0163.xml">1881_115_0163.xml</a>
                            </td>
                            <td>810</td>
                            <td>1</td>
@@ -3563,7 +3571,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1920_147_0606.xml">1920_147_0606.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1920_147_0606.xml">1920_147_0606.xml</a>
                            </td>
                            <td>751</td>
                            <td>1</td>
@@ -3584,7 +3592,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1914_180_0470.xml">1914_180_0470.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1914_180_0470.xml">1914_180_0470.xml</a>
                            </td>
                            <td>682</td>
                            <td>1</td>
@@ -3605,7 +3613,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1928_4_0039.xml">1928_4_0039.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1928_4_0039.xml">1928_4_0039.xml</a>
                            </td>
                            <td>1193</td>
                            <td>1</td>
@@ -3626,7 +3634,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1870_14_0126.xml">1870_14_0126.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1870_14_0126.xml">1870_14_0126.xml</a>
                            </td>
                            <td>773</td>
                            <td>1</td>
@@ -3647,7 +3655,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1847_130_0342.xml">1847_130_0342.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1847_130_0342.xml">1847_130_0342.xml</a>
                            </td>
                            <td>720</td>
                            <td>1</td>
@@ -3668,7 +3676,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1926_161_0210.xml">1926_161_0210.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1926_161_0210.xml">1926_161_0210.xml</a>
                            </td>
                            <td>2456</td>
                            <td>1</td>
@@ -3689,7 +3697,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1875_2_0020.xml">1875_2_0020.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1875_2_0020.xml">1875_2_0020.xml</a>
                            </td>
                            <td>3540</td>
                            <td>1</td>
@@ -3710,7 +3718,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1930_113_0193.xml">1930_113_0193.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1930_113_0193.xml">1930_113_0193.xml</a>
                            </td>
                            <td>1144</td>
                            <td>1</td>
@@ -3731,7 +3739,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1876_174_0602.xml">1876_174_0602.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1876_174_0602.xml">1876_174_0602.xml</a>
                            </td>
                            <td>750</td>
                            <td>1</td>
@@ -3752,7 +3760,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1929_250_0019.xml">1929_250_0019.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1929_250_0019.xml">1929_250_0019.xml</a>
                            </td>
                            <td>3768</td>
                            <td>1</td>
@@ -3773,7 +3781,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1835_319_0682.xml">1835_319_0682.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1835_319_0682.xml">1835_319_0682.xml</a>
                            </td>
                            <td>782</td>
                            <td>1</td>
@@ -3794,7 +3802,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1870_244_0431.xml">1870_244_0431.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1870_244_0431.xml">1870_244_0431.xml</a>
                            </td>
                            <td>197</td>
                            <td>1</td>
@@ -3815,7 +3823,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1887_54_0333.xml">1887_54_0333.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1887_54_0333.xml">1887_54_0333.xml</a>
                            </td>
                            <td>760</td>
                            <td>1</td>
@@ -3836,7 +3844,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1871_155_0279.xml">1871_155_0279.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1871_155_0279.xml">1871_155_0279.xml</a>
                            </td>
                            <td>376</td>
                            <td>1</td>
@@ -3857,7 +3865,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1914_150_0748.xml">1914_150_0748.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1914_150_0748.xml">1914_150_0748.xml</a>
                            </td>
                            <td>691</td>
                            <td>1</td>
@@ -3878,7 +3886,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1885_120_0249.xml">1885_120_0249.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1885_120_0249.xml">1885_120_0249.xml</a>
                            </td>
                            <td>1503</td>
                            <td>1</td>
@@ -3899,7 +3907,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1879_1_0011.xml">1879_1_0011.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1879_1_0011.xml">1879_1_0011.xml</a>
                            </td>
                            <td>1279</td>
                            <td>1</td>
@@ -3920,7 +3928,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1918_268_0135.xml">1918_268_0135.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1918_268_0135.xml">1918_268_0135.xml</a>
                            </td>
                            <td>716</td>
                            <td>1</td>
@@ -3941,7 +3949,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1914_145_0673.xml">1914_145_0673.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1914_145_0673.xml">1914_145_0673.xml</a>
                            </td>
                            <td>4358</td>
                            <td>1</td>
@@ -3962,7 +3970,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1889_1_0019.xml">1889_1_0019.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1889_1_0019.xml">1889_1_0019.xml</a>
                            </td>
                            <td>1673</td>
                            <td>1</td>
@@ -3983,7 +3991,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1893_78_0497.xml">1893_78_0497.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1893_78_0497.xml">1893_78_0497.xml</a>
                            </td>
                            <td>1602</td>
                            <td>1</td>
@@ -4004,7 +4012,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1918_71_0779.xml">1918_71_0779.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1918_71_0779.xml">1918_71_0779.xml</a>
                            </td>
                            <td>794</td>
                            <td>1</td>
@@ -4025,7 +4033,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1926_71_0331.xml">1926_71_0331.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1926_71_0331.xml">1926_71_0331.xml</a>
                            </td>
                            <td>988</td>
                            <td>1</td>
@@ -4046,7 +4054,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1887_134_0444.xml">1887_134_0444.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1887_134_0444.xml">1887_134_0444.xml</a>
                            </td>
                            <td>1074</td>
                            <td>1</td>
@@ -4067,7 +4075,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1877_115_0137.xml">1877_115_0137.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1877_115_0137.xml">1877_115_0137.xml</a>
                            </td>
                            <td>960</td>
                            <td>1</td>
@@ -4088,7 +4096,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1893_2_0023.xml">1893_2_0023.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1893_2_0023.xml">1893_2_0023.xml</a>
                            </td>
                            <td>1030</td>
                            <td>1</td>
@@ -4109,7 +4117,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1879_247_0279.xml">1879_247_0279.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1879_247_0279.xml">1879_247_0279.xml</a>
                            </td>
                            <td>862</td>
                            <td>1</td>
@@ -4130,7 +4138,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1883_55_0044.xml">1883_55_0044.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1883_55_0044.xml">1883_55_0044.xml</a>
                            </td>
                            <td>3647</td>
                            <td>1</td>
@@ -4151,7 +4159,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1871_65_0046.xml">1871_65_0046.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1871_65_0046.xml">1871_65_0046.xml</a>
                            </td>
                            <td>269</td>
                            <td>1</td>
@@ -4172,7 +4180,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1876_158_0491.xml">1876_158_0491.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1876_158_0491.xml">1876_158_0491.xml</a>
                            </td>
                            <td>2815</td>
                            <td>1</td>
@@ -4193,7 +4201,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1891_5_0058.xml">1891_5_0058.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1891_5_0058.xml">1891_5_0058.xml</a>
                            </td>
                            <td>2337</td>
                            <td>1</td>
@@ -4214,7 +4222,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1891_33_0452.xml">1891_33_0452.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1891_33_0452.xml">1891_33_0452.xml</a>
                            </td>
                            <td>897</td>
                            <td>1</td>
@@ -4235,7 +4243,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1924_1_0006.xml">1924_1_0006.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1924_1_0006.xml">1924_1_0006.xml</a>
                            </td>
                            <td>1361</td>
                            <td>1</td>
@@ -4256,7 +4264,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1916_169_0087.xml">1916_169_0087.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1916_169_0087.xml">1916_169_0087.xml</a>
                            </td>
                            <td>879</td>
                            <td>1</td>
@@ -4277,7 +4285,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1936_123_0292.xml">1936_123_0292.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1936_123_0292.xml">1936_123_0292.xml</a>
                            </td>
                            <td>1841</td>
                            <td>1</td>
@@ -4298,7 +4306,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1871_59_0469.xml">1871_59_0469.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1871_59_0469.xml">1871_59_0469.xml</a>
                            </td>
                            <td>334</td>
                            <td>1</td>
@@ -4319,7 +4327,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1877_115_0136.xml">1877_115_0136.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1877_115_0136.xml">1877_115_0136.xml</a>
                            </td>
                            <td>1048</td>
                            <td>1</td>
@@ -4340,7 +4348,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1893_78_0481.xml">1893_78_0481.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1893_78_0481.xml">1893_78_0481.xml</a>
                            </td>
                            <td>1112</td>
                            <td>1</td>
@@ -4361,7 +4369,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1885_5_0054.xml">1885_5_0054.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1885_5_0054.xml">1885_5_0054.xml</a>
                            </td>
                            <td>878</td>
                            <td>1</td>
@@ -4382,7 +4390,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1873_69_0497.xml">1873_69_0497.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1873_69_0497.xml">1873_69_0497.xml</a>
                            </td>
                            <td>1109</td>
                            <td>1</td>
@@ -4403,7 +4411,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1887_168_0177.xml">1887_168_0177.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1887_168_0177.xml">1887_168_0177.xml</a>
                            </td>
                            <td>1048</td>
                            <td>1</td>
@@ -4424,7 +4432,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1938_41_0426.xml">1938_41_0426.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1938_41_0426.xml">1938_41_0426.xml</a>
                            </td>
                            <td>1489</td>
                            <td>1</td>
@@ -4445,7 +4453,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1914_178_0448.xml">1914_178_0448.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1914_178_0448.xml">1914_178_0448.xml</a>
                            </td>
                            <td>110</td>
                            <td>1</td>
@@ -4466,7 +4474,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1871_104_0417.xml">1871_104_0417.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1871_104_0417.xml">1871_104_0417.xml</a>
                            </td>
                            <td>468</td>
                            <td>1</td>
@@ -4487,7 +4495,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1883_3_0028.xml">1883_3_0028.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1883_3_0028.xml">1883_3_0028.xml</a>
                            </td>
                            <td>781</td>
                            <td>1</td>
@@ -4508,7 +4516,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1900_160_0099.xml">1900_160_0099.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1900_160_0099.xml">1900_160_0099.xml</a>
                            </td>
                            <td>3410</td>
                            <td>1</td>
@@ -4529,7 +4537,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.1/data/reichsanzeiger-1820-1939/GT-PAGE/1885_1_0007.xml">1885_1_0007.xml</a>
+                              <a href="https://github.com/tboenig/reichsanzeiger-gt/blob/v1.1.2/data/reichsanzeiger-1820-1939/GT-PAGE/1885_1_0007.xml">1885_1_0007.xml</a>
                            </td>
                            <td>871</td>
                            <td>1</td>
