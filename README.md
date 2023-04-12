@@ -17,7 +17,9 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
       <dd>CC0 1.0</dd>
       <dt id="Guidelines">Transcription Guidelines:</dt>
       <dd>All transcriptions were created using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). The  transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html)  with some exceptions (see below):
-1) Special characters:
+
+  1) Special characters:
+
 - Long s (ſ)
 - Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £
 - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
@@ -28,12 +30,18 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
 - Black Left Pointing Index (☚)
 - White square (□)
 - Superscript Numbers 0-9 (⁰¹²³⁴⁵⁶⁷⁸⁹)
-2) Normalizations:
+
+
+  2) Normalizations:
+
 - Roman numerals ⅠⅤ Ⅹ Ⅼ Ⅽ Ⅾ Ⅿ --&gt; I V X L C D M  
 - Em dash (—) instead of En dash (–)
 - Asterisk (\*) used for both standard asterisk (\*) and tear-drop asterisk (✽)
 
-3) Additional characters transcribed true to original (contrary to OCR-D Level 2):
+
+
+  3) Additional characters transcribed true to original (contrary to OCR-D Level 2):
+
 - Double oblique hyphen (⸗)</dd>
       <dt id="Project">Project:</dt>
       <dd>OCR-D "Workflow for work-specific training based on generic models with OCR-D   and ground truth enhancement"</dd>
