@@ -64,9 +64,9 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
       </thead>
       <tbody>
          <tr>
-            <td>238858</td>
+            <td>238862</td>
             <td>202</td>
-            <td>74136</td>
+            <td>74138</td>
             <td>114</td>
             <td>412</td>
             <td>15738</td>
@@ -103,7 +103,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
             <tbody>
                <tr>
                   <td>reichsanzeiger-1820-1939_with-TableRegion</td>
-                  <td>4490</td>
+                  <td>4491</td>
                   <td/>
                   <td/>
                   <td>57</td>
@@ -117,12 +117,12 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>119429</td>
+                  <td>119431</td>
                   <td>101</td>
                </tr>
                <tr>
                   <td>reichsanzeiger-1820-1939</td>
-                  <td>69646</td>
+                  <td>69647</td>
                   <td/>
                   <td/>
                   <td>57</td>
@@ -136,7 +136,7 @@ Reichsanzeiger-GT is a work in progress. Additional ground truth will be added i
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>119429</td>
+                  <td>119431</td>
                   <td>101</td>
                </tr>
             </tbody>
