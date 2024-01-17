@@ -87,13 +87,13 @@
   ],
   "transcription-guidelines": "All transcriptions were created using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). The  transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html)  with some exceptions (see below):\n\n 1) Special characters:\n\n- Long s (ſ)\n- Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £\n- Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)\n- R rotunda (ꝛ)\n- Combining Latin Small Letter E for old German Umlaut ( ͤ )\n- Dagger (†)\n- Black Right Pointing Index (☛)\n- Black Left Pointing Index (☚)\n- White square (□)\n- Superscript Numbers 0-9 (⁰¹²³⁴⁵⁶⁷⁸⁹)\n\n\n 2) Normalizations:\n\n- Roman numerals ⅠⅤ Ⅹ Ⅼ Ⅽ Ⅾ Ⅿ --&gt; I V X L C D M  \n- Em dash (—) instead of En dash (–)\n- Asterisk (\\*) used for both standard asterisk (\\*) and tear-drop asterisk (✽)\n\n\n 3) Additional characters transcribed true to original (contrary to OCR-D Level 2):\n\n- Double oblique hyphen (⸗)",
   "volume": {
-    "TxtRegion": "74136",
+    "TxtRegion": "74138",
     "GraphRegion": "114",
     "TabRegion": "412",
     "SepRegion": "15738",
     "AdRegion": "4",
     "NoiseRegion": "2",
-    "TextLine": "238858",
+    "TextLine": "238862",
     "Page": "202"
   },
   "labelling": [

@@ -202,7 +202,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/reichsanzeiger-gt/releases/download/v1.2.1/bagitDump-v44.zip">Current version download: bagitDump-v44.zip</a>
+         <a href="https://github.com/tboenig/reichsanzeiger-gt/releases/tag/v1.3.1">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 45_v1.3.1</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/reichsanzeiger-gt/releases">Version archive</a>
@@ -299,9 +299,9 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>238858</td>
+            <td>238862</td>
             <td>202</td>
-            <td>74136</td>
+            <td>74138</td>
             <td>114</td>
             <td>412</td>
             <td>15738</td>
@@ -315,10 +315,13 @@ An image database</p>
    <h2>Details</h2>
    <ul>
       <li>
-         <a href="table">Compressed table view</a>
+         <a href="table">Compressed table view about regions</a>
       </li>
       <li>
-         <a href="overview">Detailed table view</a>
+         <a href="overview">Detailed table view about regions</a>
+      </li>
+      <li>
+         <a href="overview-level">Level Matrix</a>
       </li>
    </ul>
 </div>
