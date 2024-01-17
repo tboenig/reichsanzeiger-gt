@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_09:54
 Transkribus</Creator>
         <Created>2021-12-14T11:42:52.341+01:00</Created>
-        <LastChange>2022-12-07T16:08:30.320+01:00</LastChange>
+        <LastChange>2023-11-15T20:46:34.356+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34382455" pageNr="2" tsid="105747844" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DDCMGWQCJAKZCSFYQJPRHVAZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EAKWWEDKCQCAAYWBRPXSMIEG" imageId="27583899"/>
+        <TranskribusMetadata docId="900641" pageId="34382455" pageNr="2" tsid="139840596" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DDCMGWQCJAKZCSFYQJPRHVAZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EDYHIYPDGRMHDQJUKSSPKYMB" imageId="27583899"/>
     </Metadata>
     <Page imageFilename="1870_138_0554.jpg" imageWidth="9632" imageHeight="6648">
         <PrintSpace>
             <Coords points="712,297 9073,300 9045,6344 684,6341"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670486882082" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129741023" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -472,7 +472,7 @@ worden. Die geſammten Kulturkoſten belaufen ſich auf 16,932 Thlr.
             </TextLine>
             <TextLine id="r7l8" custom="readingOrder {index:7;}">
                 <Coords points="1032,3820 1064,3806 1182,3803 1295,3801 1548,3798 2035,3795 2664,3795 2805,3796 2885,3797 2924,3799 2924,3846 2715,3855 2397,3854 2273,3851 1033,3848"/>
-                <Baseline points="1032,3853 1148,3852 1182,3851 1262,3851 1295,3850 1941,3844 1975,3844 2074,3845 2116,3845 2212,3843 2247,3843 2548,3843 2580,3845 2805,3845 2845,3845 2924,3846"/>
+                <Baseline points="1033,3848 1148,3848 1182,3848 1262,3848 1295,3848 1941,3844 1975,3844 2074,3845 2116,3845 2212,3843 2247,3843 2548,3843 2580,3845 2805,3845 2845,3845 2924,3846"/>
                 <TextEquiv>
                     <Unicode>glied des Bundes⸗Schiedsgerichts und von 1835 — 1848 Mitglied des</Unicode>
                 </TextEquiv>
@@ -486,7 +486,7 @@ worden. Die geſammten Kulturkoſten belaufen ſich auf 16,932 Thlr.
             </TextLine>
             <TextLine id="r7l10" custom="readingOrder {index:9;}">
                 <Coords points="1032,3938 1053,3924 1214,3919 1845,3915 2052,3914 2510,3913 2530,3913 2684,3914 2924,3917 2924,3965 2781,3974 2323,3972 2240,3974 1215,3968 1053,3971 1032,3969"/>
-                <Baseline points="1032,3969 1180,3970 1214,3969 1534,3965 1568,3965 1729,3964 1761,3964 1812,3964 1845,3963 1913,3963 1961,3963 2154,3963 2188,3963 2781,3963 2824,3964 2924,3965"/>
+                <Baseline points="1032,3969 1179,3968 1213,3968 1534,3965 1568,3965 1729,3964 1761,3964 1812,3964 1845,3963 1913,3963 1961,3963 2154,3963 2188,3963 2781,3963 2824,3964 2924,3965"/>
                 <TextEquiv>
                     <Unicode>einem weſtfäliſchen Bezirk in die deutſche Nationalverſammlung und</Unicode>
                 </TextEquiv>
@@ -500,7 +500,7 @@ worden. Die geſammten Kulturkoſten belaufen ſich auf 16,932 Thlr.
             </TextLine>
             <TextLine id="r7l12" custom="readingOrder {index:11;}">
                 <Coords points="1029,4041 1692,4034 2391,4032 2654,4032 2920,4036 2920,4084 2654,4091 2150,4088 1951,4089 1938,4091 1172,4084 1029,4091"/>
-                <Baseline points="1029,4090 1356,4087 1406,4086 1481,4085 1537,4085 1656,4082 1692,4083 1984,4081 2036,4081 2152,4080 2186,4080 2348,4081 2391,4081 2496,4080 2532,4080 2787,4082 2819,4082 2920,4084"/>
+                <Baseline points="1029,4090 1356,4085 1406,4086 1481,4085 1537,4085 1656,4082 1692,4083 1984,4081 2036,4081 2152,4080 2186,4080 2348,4081 2391,4081 2496,4080 2532,4080 2787,4082 2819,4082 2920,4084"/>
                 <TextEquiv>
                     <Unicode>Miniſterium als Geh. Staatsrath ein, wurde bald penſionirt und</Unicode>
                 </TextEquiv>
@@ -590,7 +590,7 @@ Civilprozeſſes mehr als ein Dutzend Auflagen erlebt.</Unicode>
             </TextLine>
             <TextLine id="r9l4" custom="readingOrder {index:3;}">
                 <Coords points="1034,4590 1142,4586 1584,4582 2068,4578 2600,4578 2804,4581 2925,4593 2927,4624 1715,4644 1683,4642 1143,4636 1034,4630"/>
-                <Baseline points="1034,4630 1109,4632 1142,4632 1255,4630 1287,4631 1375,4631 1407,4631 1549,4629 1584,4628 1778,4628 1813,4628 1909,4627 1941,4626 2035,4626 2068,4625 2335,4625 2368,4625 2430,4626 2463,4626 2615,4626 2650,4627 2746,4627 2779,4627 2925,4628"/>
+                <Baseline points="1034,4630 1109,4632 1142,4632 1255,4630 1287,4631 1375,4631 1407,4631 1549,4629 1584,4628 1778,4628 1813,4628 1909,4627 1941,4626 2035,4626 2068,4625 2335,4625 2368,4625 2430,4626 2463,4626 2615,4626 2650,4627 2745,4626 2778,4626 2924,4624"/>
                 <TextEquiv>
                     <Unicode>der Poſt 600 Tons Ladung und 462 Paſſagiere an Bord, von denen</Unicode>
                 </TextEquiv>
@@ -1099,7 +1099,7 @@ Sommer⸗Monate am 1. u. 15. jedes Monats.) Berlin, 15. Juni 1870.</Unicode>
                 <Coords points="988,5835 988,5899 1519,5899 1519,5834"/>
                 <TextLine id="TableCell_1642000835507_8029l0" custom="readingOrder {index:0;}">
                     <Coords points="1018,5840 1178,5835 1215,5835 1291,5839 1317,5852 1317,5882 1215,5890 1018,5890"/>
-                    <Baseline points="1018,5877 1234,5886 1261,5885 1329,5883"/>
+                    <Baseline points="1018,5877 1234,5886 1261,5885 1317,5882"/>
                     <TextEquiv>
                         <Unicode>Ankunft in</Unicode>
                     </TextEquiv>
@@ -1431,7 +1431,7 @@ Sommer⸗Monate am 1. u. 15. jedes Monats.) Berlin, 15. Juni 1870.</Unicode>
                 <Coords points="3510,779 3510,849 3510,910 4262,908 4262,839 4262,776"/>
                 <TextLine id="line_1642774206717_6779" custom="readingOrder {index:0;}">
                     <Coords points="3732,776 4009,776 4009,911 3732,911"/>
-                    <Baseline points="3733,865 4010,865"/>
+                    <Baseline points="3733,865 4009,865"/>
                     <TextEquiv>
                         <Unicode>Danzig.</Unicode>
                     </TextEquiv>
@@ -2574,7 +2574,7 @@ Sommer⸗Monate am 1. u. 15. jedes Monats.) Berlin, 15. Juni 1870.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642003048774_10100l1" custom="readingOrder {index:1;}">
                     <Coords points="3531,2592 3570,2580 4069,2576 4179,2576 4207,2578 4209,2578 4226,2622 4222,2623 4162,2626 3757,2636 3707,2636 3531,2628"/>
-                    <Baseline points="3531,2628 3644,2629 3673,2628 3868,2626 3903,2625 4008,2625 4039,2625 4263,2614"/>
+                    <Baseline points="3531,2628 3644,2629 3673,2628 3868,2626 3903,2625 4008,2625 4039,2625 4226,2622"/>
                     <TextEquiv>
                         <Unicode>über Oſtende oder Calais.</Unicode>
                     </TextEquiv>
@@ -3163,7 +3163,7 @@ Sommer⸗Monate am 1. u. 15. jedes Monats.) Berlin, 15. Juni 1870.</Unicode>
                 <Coords points="3510,3350 3510,3416 3510,3471 4262,3477 4262,3404 4262,3348"/>
                 <TextLine id="line_1642774558782_6805" custom="readingOrder {index:0;}">
                     <Coords points="3621,3378 4152,3378 4152,3450 3621,3450"/>
-                    <Baseline points="3620,3432 4151,3432"/>
+                    <Baseline points="3621,3432 4151,3432"/>
                     <TextEquiv>
                         <Unicode>St. Petersburg.</Unicode>
                     </TextEquiv>
@@ -3815,7 +3815,7 @@ Sommer⸗Monate am 1. u. 15. jedes Monats.) Berlin, 15. Juni 1870.</Unicode>
                 <Coords points="4599,4373 4599,4436 4852,4422 4851,4366"/>
                 <TextLine id="TableCell_1642001156105_8508l0" custom="readingOrder {index:0;}">
                     <Coords points="4601,4383 4845,4373 4849,4420 4602,4435"/>
-                    <Baseline points="4604,4429 4853,4419"/>
+                    <Baseline points="4604,4429 4848,4419"/>
                     <TextEquiv>
                         <Unicode>8. 30 Ab. *</Unicode>
                     </TextEquiv>
@@ -3829,7 +3829,7 @@ Sommer⸗Monate am 1. u. 15. jedes Monats.) Berlin, 15. Juni 1870.</Unicode>
                 <Coords points="4262,4437 4262,4497 4600,4500 4599,4436"/>
                 <TextLine id="TableCell_1642001147134_8478l0" custom="readingOrder {index:0;}">
                     <Coords points="4266,4441 4564,4442 4560,4494 4541,4498 4266,4496"/>
-                    <Baseline points="4262,4498 4333,4497 4354,4497 4392,4497 4549,4491"/>
+                    <Baseline points="4266,4496 4333,4496 4354,4496 4392,4496 4549,4491"/>
                     <TextEquiv>
                         <Unicode>8. 45 fr. †</Unicode>
                     </TextEquiv>
@@ -3871,7 +3871,7 @@ Sommer⸗Monate am 1. u. 15. jedes Monats.) Berlin, 15. Juni 1870.</Unicode>
                 <Coords points="4262,4497 4262,4555 4599,4558 4600,4500"/>
                 <TextLine id="TableCell_1642001135005_8454l0" custom="readingOrder {index:0;}">
                     <Coords points="4264,4501 4577,4502 4577,4553 4266,4554"/>
-                    <Baseline points="4262,4548 4568,4546"/>
+                    <Baseline points="4265,4547 4568,4546"/>
                     <TextEquiv>
                         <Unicode>9. 25 Vm. *</Unicode>
                     </TextEquiv>
@@ -4220,7 +4220,7 @@ Die Oper und das Schauſpiel haben Ferien.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642003491720_11021l1" custom="readingOrder {index:1;}">
                     <Coords points="5832,647 5869,647 5938,651 5951,685 5951,693 5938,695 5864,706 5827,706"/>
-                    <Baseline points="5827,694 5879,695 5910,695 5951,693"/>
+                    <Baseline points="5828,694 5879,695 5910,695 5951,693"/>
                     <TextEquiv>
                         <Unicode>v. M.</Unicode>
                     </TextEquiv>
@@ -5053,7 +5053,7 @@ Die Oper und das Schauſpiel haben Ferien.</Unicode>
                 <Coords points="6390,1164 6390,1225 6843,1221 6843,1154"/>
                 <TextLine id="TableCell_1642003481046_10541l0" custom="readingOrder {index:0;}">
                     <Coords points="6396,1171 6459,1170 6682,1169 6810,1169 6807,1225 6427,1225 6396,1213"/>
-                    <Baseline points="6396,1213 6593,1213 6643,1213 6810,1213"/>
+                    <Baseline points="6396,1213 6593,1213 6643,1213 6807,1212"/>
                     <TextEquiv>
                         <Unicode>bedeckt, Nebel.</Unicode>
                     </TextEquiv>
@@ -5753,7 +5753,7 @@ Die Oper und das Schauſpiel haben Ferien.</Unicode>
                 <Coords points="5051,1603 5050,1659 5352,1646 5353,1591"/>
                 <TextLine id="line_1642779866253_7009" custom="readingOrder {index:0;}">
                     <Coords points="5059,1606 5277,1601 5275,1648 5059,1652"/>
-                    <Baseline points="5068,1653 5269,1640"/>
+                    <Baseline points="5067,1651 5269,1640"/>
                     <TextEquiv>
                         <Unicode>Münster</Unicode>
                     </TextEquiv>
@@ -7419,7 +7419,7 @@ Die Oper und das Schauſpiel haben Ferien.</Unicode>
                 <Coords points="4957,2478 4957,2536 5050,2534 5050,2476"/>
                 <TextLine id="line_1642779784857_6984" custom="readingOrder {index:0;}">
                     <Coords points="5032,2480 4988,2480 4988,2525 5032,2525"/>
-                    <Baseline points="5000,2516 5033,2514"/>
+                    <Baseline points="5000,2516 5032,2514"/>
                     <TextEquiv>
                         <Unicode>»</Unicode>
                     </TextEquiv>
@@ -7489,7 +7489,7 @@ Die Oper und das Schauſpiel haben Ferien.</Unicode>
                 <Coords points="5827,2465 5827,2523 5955,2522 5955,2464"/>
                 <TextLine id="line_1643026484832_274" custom="readingOrder {index:0;}">
                     <Coords points="5935,2507 5855,2507 5855,2482 5935,2482"/>
-                    <Baseline points="5862,2503 5936,2503"/>
+                    <Baseline points="5862,2503 5935,2503"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -8665,7 +8665,7 @@ Die Oper und das Schauſpiel haben Ferien.</Unicode>
                 <Coords points="5062,3127 5050,3184 5353,3178 5354,3128"/>
                 <TextLine id="line_1643026324617_221" custom="readingOrder {index:0;}">
                     <Coords points="5073,3132 5351,3130 5353,3171 5070,3175"/>
-                    <Baseline points="5075,3173 5349,3172"/>
+                    <Baseline points="5075,3173 5348,3171"/>
                     <TextEquiv>
                         <Unicode>St. Mathieu</Unicode>
                     </TextEquiv>
@@ -10672,7 +10672,7 @@ Berlin, 15. Juni. (Marktpr. nach Ermitt. des K. Polizei-Präs.)</Unicode>
             <TableCell row="7" col="16" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1642004192270_13521">
                 <Coords points="6690,4262 6690,4321 6777,4320 6777,4260"/>
                 <TextLine id="TableCell_1642004192270_13521l0" custom="readingOrder {index:0;}">
-                    <Coords points="6707,4261 6702,4267 6773,4267 6773,4322 6707,4321"/>
+                    <Coords points="6707,4261 6702,4267 6707,4321 6773,4322 6773,4267"/>
                     <Baseline points="6720,4318 6771,4315"/>
                     <TextEquiv>
                         <Unicode>4</Unicode>
@@ -11439,12 +11439,12 @@ Berlin, 15. Juni. (Marktpr. nach Ermitt. des K. Polizei-Präs.)</Unicode>
                 <Coords points="4995,4713 5396,4707 5456,4707 6765,4696 6824,4710 6841,4731 6841,4742 5959,4765 5929,4765 5154,4774 4995,4760"/>
                 <Baseline points="5004,4753 5291,4764 5329,4764 5493,4759 5528,4759 5657,4757 5691,4757 5999,4753 6028,4753 6539,4746 6567,4745 6707,4744 6731,4743 6841,4742"/>
                 <TextEquiv>
-                    <Unicode>75 — 76 ¼ — 75 ¾ Thlr. bez., September 77 ½ — 77 7/8 — 76 ¾ — 77 Thlr. bez.</Unicode>
+                    <Unicode>75 — 76 ¼ — 75 ¾ Thlr. bez., September 77 ½ — 77 7⁄8 — 76 ¾ — 77 Thlr. bez.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l5" custom="readingOrder {index:4;}">
                 <Coords points="5081,4775 6246,4760 6699,4755 6763,4755 6841,4769 6844,4811 5395,4831 5201,4833 5082,4833"/>
-                <Baseline points="5081,4824 5307,4821 5337,4821 5453,4819 5485,4819 5727,4815 5768,4815 5899,4813 5930,4813 6017,4811 6047,4811 6170,4809 6199,4809 6313,4807 6344,4807 6484,4805 6566,4804 6611,4804 6641,4803 6763,4802 6793,4801 6841,4800"/>
+                <Baseline points="5081,4823 5307,4821 5337,4821 5453,4819 5485,4819 5727,4815 5768,4815 5899,4813 5930,4813 6017,4811 6047,4811 6170,4809 6199,4809 6313,4807 6344,4807 6484,4805 6566,4804 6611,4804 6641,4803 6763,4802 6793,4801 6841,4800"/>
                 <TextEquiv>
                     <Unicode>Roggen loco 52 ¼ — 53 ½ Thlr. pr. 2000 Pfd. bez., pr. Juni u.</Unicode>
                 </TextEquiv>
@@ -11523,7 +11523,7 @@ Berlin, 15. Juni. (Marktpr. nach Ermitt. des K. Polizei-Präs.)</Unicode>
                 <Coords points="5077,5421 6709,5399 6792,5399 6847,5413 6847,5445 6678,5460 6263,5468 5929,5474 5217,5476 5077,5475"/>
                 <Baseline points="5077,5468 5271,5470 5304,5469 5418,5468 5461,5467 5546,5466 5578,5465 5719,5463 5752,5463 5853,5461 5884,5461 5963,5460 5993,5460 6113,5459 6148,5458 6349,5455 6381,5454 6520,5450 6549,5449 6678,5447 6709,5446 6847,5444"/>
                 <TextEquiv>
-                    <Unicode>Rüböl loco 14 ⅝ Thlr. Br., pr. Juni 14 5/12 — ⅜ Thlr. bez., Juni-</Unicode>
+                    <Unicode>Rüböl loco 14 ⅝ Thlr. Br., pr. Juni 14 5⁄12 — ⅜ Thlr. bez., Juni-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l17" custom="readingOrder {index:16;}">
@@ -11537,21 +11537,21 @@ Berlin, 15. Juni. (Marktpr. nach Ermitt. des K. Polizei-Präs.)</Unicode>
                 <Coords points="5002,5532 6326,5525 6403,5525 6435,5538 6435,5569 6403,5571 6120,5587 5327,5587 5158,5586 5091,5584 5037,5582 5002,5579"/>
                 <Baseline points="5002,5567 5213,5586 5243,5586 5293,5586 5327,5585 5879,5580 5917,5579 6120,5575 6152,5574 6294,5572 6326,5571 6435,5569 6435,5567"/>
                 <TextEquiv>
-                    <Unicode>Oktober u. Oktober-November 13 ⅓ — 7/24 Thlr. bez.</Unicode>
+                    <Unicode>Oktober u. Oktober-November 13 ⅓ — 7⁄24 Thlr. bez.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l19" custom="readingOrder {index:18;}">
                 <Coords points="5100,5595 6812,5574 6849,5574 6849,5619 6555,5638 5122,5653 5099,5653"/>
                 <Baseline points="5103,5649 5405,5637 5448,5644 5564,5642 5612,5642 5701,5641 5732,5640 5899,5638 5944,5638 6017,5637 6050,5636 6172,5633 6212,5633 6273,5631 6305,5630 6441,5627 6475,5626 6555,5625 6603,5624 6849,5618"/>
                 <TextEquiv>
-                    <Unicode>Petroleum loco 7 5/12 Thlr., pr. Juni 7 ⅙ Thlr. G., Juni-Juli</Unicode>
+                    <Unicode>Petroleum loco 7 5⁄12 Thlr., pr. Juni 7 ⅙ Thlr. G., Juni-Juli</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l20" custom="readingOrder {index:19;}">
                 <Coords points="5007,5665 5027,5652 6274,5643 6311,5643 6352,5656 6352,5688 6062,5708 5564,5716 5319,5716 5027,5708 5007,5694"/>
                 <Baseline points="5007,5686 5048,5705 5087,5702 5211,5703 5245,5703 5346,5703 5381,5703 5950,5697 5978,5697 6062,5695 6096,5694 6235,5691 6274,5690 6352,5688"/>
                 <TextEquiv>
-                    <Unicode>7 ⅙ Thlr. Br., September-Oktober 7 7/12 Thlr. Br.</Unicode>
+                    <Unicode>7 ⅙ Thlr. Br., September-Oktober 7 7⁄12 Thlr. Br.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l21" custom="readingOrder {index:20;}">
@@ -11563,7 +11563,7 @@ Berlin, 15. Juni. (Marktpr. nach Ermitt. des K. Polizei-Präs.)</Unicode>
             </TextLine>
             <TextLine id="r19l22" custom="readingOrder {index:21;}">
                 <Coords points="5090,5800 5106,5772 6478,5753 6712,5750 6788,5744 6860,5745 6862,5774 6864,5786 6847,5800 6330,5814 5927,5822 5142,5829 5101,5825"/>
-                <Baseline points="5096,5819 5339,5819 5360,5820 5474,5819 5509,5818 5643,5816 5677,5816 5810,5814 5846,5813 5989,5811 6018,5811 6160,5807 6192,5806 6330,5803 6405,5801 6446,5800 6478,5800 6594,5797 6627,5796 6676,5795 6712,5794 6844,5791"/>
+                <Baseline points="5097,5818 5339,5819 5360,5820 5474,5819 5509,5818 5643,5816 5677,5816 5810,5814 5846,5813 5989,5811 6018,5811 6160,5807 6192,5806 6330,5803 6405,5801 6446,5800 6478,5800 6594,5797 6627,5796 6676,5795 6712,5794 6844,5791"/>
                 <TextEquiv>
                     <Unicode>Spiritus loco ohne Fass 16 ⅞ — Thlr. bez., pr. Juni u. Juni-</Unicode>
                 </TextEquiv>
@@ -11572,65 +11572,65 @@ Berlin, 15. Juni. (Marktpr. nach Ermitt. des K. Polizei-Präs.)</Unicode>
                 <Coords points="5002,5822 5270,5826 5449,5826 6793,5809 6865,5821 6860,5864 5439,5883 5265,5894 5192,5890 5028,5872 5002,5867"/>
                 <Baseline points="5002,5855 5089,5877 5124,5876 5265,5879 5325,5879 5376,5879 5444,5879 5478,5878 5511,5878 5651,5875 5689,5874 5796,5872 5857,5871 6114,5867 6152,5867 6324,5861 6354,5861 6493,5858 6526,5858 6637,5856 6669,5855 6720,5854 6757,5854 6855,5852"/>
                 <TextEquiv>
-                    <Unicode>Juli 16 5/12 — 13/24 — 11/24 Thlr. bez., Juli-Aug. 16 ½ — ⅝ Thlr. bez. u. Br.,</Unicode>
+                    <Unicode>Juli 16 5⁄12 — 13⁄24 — 11⁄24 Thlr. bez., Juli-Aug. 16 ½ — ⅝ Thlr. bez. u. Br.,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l24" custom="readingOrder {index:23;}">
                 <Coords points="5005,5875 5075,5889 5805,5880 5880,5877 6817,5859 6852,5880 6850,5922 6455,5933 5105,5952 5065,5939 4999,5935"/>
-                <Baseline points="5010,5927 5527,5935 5564,5934 5768,5932 5801,5931 5939,5929 5973,5929 6079,5927 6113,5925 6160,5924 6194,5923 6305,5921 6340,5920 6647,5915 6684,5914 6739,5913 6775,5912 6852,5911"/>
+                <Baseline points="5010,5927 5527,5935 5564,5934 5768,5932 5801,5931 5939,5929 5973,5929 6079,5927 6113,5925 6160,5924 6194,5923 6305,5921 6340,5920 6647,5915 6684,5914 6739,5913 6775,5912 6850,5910"/>
                 <TextEquiv>
-                    <Unicode>August-September 16 19/24 — ⅞ Thlr. bez. u. Br., September 17 bis</Unicode>
+                    <Unicode>August-September 16 19⁄24 — ⅞ Thlr. bez. u. Br., September 17 bis</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l25" custom="readingOrder {index:24;}">
                 <Coords points="4998,5935 5103,5946 6412,5932 6444,5932 6519,5936 6519,5974 6364,5990 5530,6004 5193,6005 5141,6005 5005,6006"/>
                 <Baseline points="5015,5990 5224,5997 5366,5996 5402,5995 5530,5994 5562,5993 5796,5990 5831,5990 5883,5989 5915,5989 6051,5986 6085,5985 6231,5981 6268,5980 6377,5978 6412,5977 6519,5974"/>
                 <TextEquiv>
-                    <Unicode>⅛ — 17 1/12 Thlr. bez., Oktober 18 Thlr. 9 — 12 Sgr. bez.</Unicode>
+                    <Unicode>⅛ — 17 1⁄12 Thlr. bez., Oktober 18 Thlr. 9 — 12 Sgr. bez.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l26" custom="readingOrder {index:25;}">
                 <Coords points="5108,6005 5801,5999 6737,5979 6766,5979 6856,5984 6856,6038 6737,6043 5835,6061 5772,6058 5148,6055 5108,6051"/>
                 <Baseline points="5124,6045 5462,6054 5510,6053 5604,6052 5640,6051 5670,6051 5706,6050 5797,6049 5830,6048 5854,6048 5914,6046 5946,6046 6083,6043 6133,6042 6260,6039 6307,6038 6395,6036 6428,6035 6458,6034 6495,6033 6543,6032 6578,6031 6612,6030 6645,6030 6856,6027"/>
                 <TextEquiv>
-                    <Unicode>Weizenmehl No. 0 4 ⅚ — 4 ⅔ Thlr. bez., No. 0 u. 1. 4 7/12 — ⅓</Unicode>
+                    <Unicode>Weizenmehl No. 0 4 ⅚ — 4 ⅔ Thlr. bez., No. 0 u. 1. 4 7⁄12 — ⅓</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l27" custom="readingOrder {index:26;}">
                 <Coords points="4997,6049 5391,6062 6727,6043 6794,6043 6834,6056 6857,6078 6857,6102 5518,6125 5268,6125 5074,6119 4998,6111"/>
                 <Baseline points="5011,6101 5128,6109 5191,6114 5547,6110 5581,6110 5673,6109 5706,6109 5736,6108 5766,6108 5944,6106 5977,6106 6132,6101 6163,6100 6255,6097 6288,6096 6392,6093 6427,6092 6459,6091 6525,6090 6673,6089 6696,6089 6857,6089"/>
                 <TextEquiv>
-                    <Unicode>Thlr. Roggenmehl No. 0 3 ¾ — 7/12 Thlr., No. 0 u. I. 3 7/12 — ⅓ Thlr.,</Unicode>
+                    <Unicode>Thlr. Roggenmehl No. 0 3 ¾ — 7⁄12 Thlr., No. 0 u. I. 3 7⁄12 — ⅓ Thlr.,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Berlin, 15. Juni. (Nichtamtlicher Getreidebericht.)
-Weizen loco 66 — 78 Thlr. pr. 2100 Pfd. nach Qualität, pr Juni
-76 ⅜ Thlr. bez., Juni-Juli 75 ½ — 76 ¼ — 75 ¾ Thlr. bez., Juli-August
-75 — 76 ¼ — 75 ¾ Thlr. bez., September 77 ½ — 77 7/8 — 76 ¾ — 77 Thlr. bez.
-Roggen loco 52 ¼ — 53 ½ Thlr. pr. 2000 Pfd. bez., pr. Juni u.
-Juni-Juli 53 — ¼ — 52 ¾ — 53 Thlr. bez., Juli-August 54 — 53 ¾ — 52 ¼
-bis 53 ¾ Thlr. bez., August-Septbr. 55 ¾ — 56 ⅛ — 55 ½ Thlr. bez.,
-Septbr.-Okober 55 ¾ — 56 — 55 ½ Thlr. bez., Oktober-November
-55 ½ — ¼ Thlr. bez.
-Gerste, grosse und kleine à 36 — 46 Thlr. per 1750 Pfd.
-Hafer loco 26 — 31 Thlr. pr. 1200 Pfd. nach Qual., märk.
-29 Thlr., pomm. 29 ½ — ¾ Thlr. ab Bahn bez., pr. Juni 28 ⅜ Thlr.
-bez., Juni-Juli 28 ¼ — 28 Thlr. bez., Juli-August 28 ½ Thlr. bez.,
-September-Oktober 29 — ¼ — ⅛ Thlr. bez.
-Erbsen, Kochwaare 53 — 57 Thlr., Futterwaare 44 — 52 Thlr.
-Rüböl loco 14 ⅝ Thlr. Br., pr. Juni 14 5/12 — ⅜ Thlr. bez., Juni-
-Juli 13 ⅚ Thlr. bez., Juli-August 13 ½ Thlr. bez., September-
-Oktober u. Oktober-November 13 ⅓ — 7/24 Thlr. bez.
-Petroleum loco 7 5/12 Thlr., pr. Juni 7 ⅙ Thlr. G., Juni-Juli
-7 ⅙ Thlr. Br., September-Oktober 7 7/12 Thlr. Br.
-Leinöl loco 12 ⅙ Thlr.
-Spiritus loco ohne Fass 16 ⅞ — Thlr. bez., pr. Juni u. Juni-
-Juli 16 5/12 — 13/24 — 11/24 Thlr. bez., Juli-Aug. 16 ½ — ⅝ Thlr. bez. u. Br.,
-August-September 16 19/24 — ⅞ Thlr. bez. u. Br., September 17 bis
-⅛ — 17 1/12 Thlr. bez., Oktober 18 Thlr. 9 — 12 Sgr. bez.
-Weizenmehl No. 0 4 ⅚ — 4 ⅔ Thlr. bez., No. 0 u. 1. 4 7/12 — ⅓
-Thlr. Roggenmehl No. 0 3 ¾ — 7/12 Thlr., No. 0 u. I. 3 7/12 — ⅓ Thlr.,</Unicode>
+                <Unicode>Berlin, 15. Juni. (Nichtamtlicher Getreidebericht.)&#13;
+Weizen loco 66 — 78 Thlr. pr. 2100 Pfd. nach Qualität, pr Juni&#13;
+76 ⅜ Thlr. bez., Juni-Juli 75 ½ — 76 ¼ — 75 ¾ Thlr. bez., Juli-August&#13;
+75 — 76 ¼ — 75 ¾ Thlr. bez., September 77 ½ — 77 7⁄8 — 76 ¾ — 77 Thlr. bez.&#13;
+Roggen loco 52 ¼ — 53 ½ Thlr. pr. 2000 Pfd. bez., pr. Juni u.&#13;
+Juni-Juli 53 — ¼ — 52 ¾ — 53 Thlr. bez., Juli-August 54 — 53 ¾ — 52 ¼&#13;
+bis 53 ¾ Thlr. bez., August-Septbr. 55 ¾ — 56 ⅛ — 55 ½ Thlr. bez.,&#13;
+Septbr.-Okober 55 ¾ — 56 — 55 ½ Thlr. bez., Oktober-November&#13;
+55 ½ — ¼ Thlr. bez.&#13;
+Gerste, grosse und kleine à 36 — 46 Thlr. per 1750 Pfd.&#13;
+Hafer loco 26 — 31 Thlr. pr. 1200 Pfd. nach Qual., märk.&#13;
+29 Thlr., pomm. 29 ½ — ¾ Thlr. ab Bahn bez., pr. Juni 28 ⅜ Thlr.&#13;
+bez., Juni-Juli 28 ¼ — 28 Thlr. bez., Juli-August 28 ½ Thlr. bez.,&#13;
+September-Oktober 29 — ¼ — ⅛ Thlr. bez.&#13;
+Erbsen, Kochwaare 53 — 57 Thlr., Futterwaare 44 — 52 Thlr.&#13;
+Rüböl loco 14 ⅝ Thlr. Br., pr. Juni 14 5⁄12 — ⅜ Thlr. bez., Juni-&#13;
+Juli 13 ⅚ Thlr. bez., Juli-August 13 ½ Thlr. bez., September-&#13;
+Oktober u. Oktober-November 13 ⅓ — 7⁄24 Thlr. bez.&#13;
+Petroleum loco 7 5⁄12 Thlr., pr. Juni 7 ⅙ Thlr. G., Juni-Juli&#13;
+7 ⅙ Thlr. Br., September-Oktober 7 7⁄12 Thlr. Br.&#13;
+Leinöl loco 12 ⅙ Thlr.&#13;
+Spiritus loco ohne Fass 16 ⅞ — Thlr. bez., pr. Juni u. Juni-&#13;
+Juli 16 5⁄12 — 13⁄24 — 11⁄24 Thlr. bez., Juli-Aug. 16 ½ — ⅝ Thlr. bez. u. Br.,&#13;
+August-September 16 19⁄24 — ⅞ Thlr. bez. u. Br., September 17 bis&#13;
+⅛ — 17 1⁄12 Thlr. bez., Oktober 18 Thlr. 9 — 12 Sgr. bez.&#13;
+Weizenmehl No. 0 4 ⅚ — 4 ⅔ Thlr. bez., No. 0 u. 1. 4 7⁄12 — ⅓&#13;
+Thlr. Roggenmehl No. 0 3 ¾ — 7⁄12 Thlr., No. 0 u. I. 3 7⁄12 — ⅓ Thlr.,</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r20" custom="readingOrder {index:23;} structure {type:paragraph;}">
@@ -12016,26 +12016,26 @@ nete heute mehr Frage und stellten sich die Notirungen ca.
                 <Coords points="6921,3489 7007,3488 8610,3470 8642,3470 8660,3471 8784,3481 8784,3515 8528,3530 8228,3534 7734,3540 7717,3540 6921,3536"/>
                 <Baseline points="6921,3535 6974,3535 7007,3534 7204,3532 7236,3532 7335,3531 7375,3531 7433,3530 7461,3530 7676,3527 7717,3527 7823,3526 7855,3527 7977,3525 8008,3524 8123,3523 8156,3522 8239,3521 8272,3521 8445,3519 8497,3518 8571,3517 8610,3516 8784,3514"/>
                 <TextEquiv>
-                    <Unicode>in Posten von 50 Barrels (125 Ctr.) loco 7 5/12 Thlr., pr. diesen</Unicode>
+                    <Unicode>in Posten von 50 Barrels (125 Ctr.) loco 7 5⁄12 Thlr., pr. diesen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l38" custom="readingOrder {index:37;}">
                 <Coords points="6925,3547 7215,3543 7548,3539 8689,3528 8719,3528 8782,3539 8782,3573 7157,3604 6923,3604"/>
                 <Baseline points="6925,3594 7102,3592 7133,3592 7193,3591 7215,3591 7371,3590 7403,3589 7961,3584 7991,3584 8048,3583 8082,3582 8208,3581 8240,3580 8782,3573"/>
                 <TextEquiv>
-                    <Unicode>Monat 7 1/6 Thlr., September-Oktober 7 ½ bez., Oktober-November</Unicode>
+                    <Unicode>Monat 7 1⁄6 Thlr., September-Oktober 7 ½ bez., Oktober-November</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l39" custom="readingOrder {index:38;}">
                 <Coords points="6923,3608 6950,3608 7126,3602 7129,3624 7138,3653 7113,3662 6947,3666 6923,3654"/>
                 <Baseline points="6923,3654 6950,3654 7087,3650 7129,3649"/>
                 <TextEquiv>
-                    <Unicode>7 7/12 Br.</Unicode>
+                    <Unicode>7 7⁄12 Br.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l40" custom="readingOrder {index:39;}">
                 <Coords points="7039,3660 7124,3656 8782,3642 8781,3699 8123,3709 7626,3714 7273,3709 7085,3722 7046,3710 7032,3682"/>
-                <Baseline points="7056,3703 7274,3707 7333,3707 7412,3706 7454,3705 7573,3704 7616,3704 7732,3702 7776,3702 7871,3701 7912,3700 8046,3699 8108,3698 8186,3697 8234,3696 8415,3693 8462,3693 8641,3690 8698,3689 8782,3688"/>
+                <Baseline points="7056,3703 7274,3707 7333,3707 7412,3706 7454,3705 7573,3704 7616,3704 7732,3702 7776,3702 7871,3701 7912,3700 8046,3699 8108,3698 8186,3697 8234,3696 8415,3693 8462,3693 8641,3690 8698,3689 8781,3687"/>
                 <TextEquiv>
                     <Unicode>Spiritus pr. 8000 pCt. mit Fass pr. diesen Monat 16 ⅜</Unicode>
                 </TextEquiv>
@@ -12044,21 +12044,21 @@ nete heute mehr Frage und stellten sich die Notirungen ca.
                 <Coords points="6927,3725 7408,3716 8662,3702 8763,3702 8782,3726 8787,3759 7377,3777 7316,3777 6927,3773"/>
                 <Baseline points="6927,3771 7038,3769 7067,3769 7118,3768 7152,3768 7207,3767 7262,3766 7377,3765 7408,3765 7489,3763 7551,3763 7824,3761 7859,3760 7941,3759 7973,3759 8082,3757 8116,3757 8168,3756 8199,3756 8319,3754 8349,3754 8479,3752 8509,3752 8618,3750 8662,3750 8782,3748"/>
                 <TextEquiv>
-                    <Unicode>bez. u. G., 16 5/12 Br., Juni-Juli 16 ⅜ bez. u. Gd., 16 5/12 Br., Juli-</Unicode>
+                    <Unicode>bez. u. G., 16 5⁄12 Br., Juni-Juli 16 ⅜ bez. u. Gd., 16 5⁄12 Br., Juli-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l42" custom="readingOrder {index:41;}">
                 <Coords points="6926,3785 6994,3782 7228,3776 7569,3771 7593,3771 8714,3760 8785,3759 8782,3806 8714,3820 8629,3818 7097,3841 6997,3841 6926,3831"/>
                 <Baseline points="6926,3830 7134,3827 7168,3827 7282,3825 7313,3825 7348,3824 7383,3824 7464,3823 7494,3822 7620,3820 7654,3820 7737,3819 7768,3818 7822,3819 7853,3818 7956,3817 8002,3817 8571,3809 8605,3809 8714,3808 8748,3807 8782,3797"/>
                 <TextEquiv>
-                    <Unicode>August 16 11/24 à 16 ½ bez., Br. u. Gd., August-September 16 17/24 à</Unicode>
+                    <Unicode>August 16 11⁄24 à 16 ½ bez., Br. u. Gd., August-September 16 17⁄24 à</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l43" custom="readingOrder {index:42;}">
                 <Coords points="6929,3843 7062,3840 7253,3836 8574,3821 8748,3820 8782,3820 8782,3865 8408,3883 8065,3887 7202,3897 7016,3898 6987,3898 6929,3890"/>
                 <Baseline points="6929,3889 7016,3887 7062,3887 7202,3885 7253,3884 7336,3883 7369,3883 7419,3882 7451,3882 7562,3880 7607,3880 7918,3876 7951,3876 8065,3874 8115,3874 8150,3873 8197,3873 8248,3872 8280,3872 8408,3870 8461,3869 8544,3868 8574,3868 8716,3866 8748,3865 8782,3865"/>
                 <TextEquiv>
-                    <Unicode>16 ¾ bez., Br. u. Gd., September 16 11/12 à 17 bez., 100 Liter à</Unicode>
+                    <Unicode>16 ¾ bez., Br. u. Gd., September 16 11⁄12 à 17 bez., 100 Liter à</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l44" custom="readingOrder {index:43;}">
@@ -12079,14 +12079,14 @@ nete heute mehr Frage und stellten sich die Notirungen ca.
                 <Coords points="7048,4015 7094,4013 8547,3998 8596,3998 8764,4009 8784,4019 8784,4032 8764,4043 8697,4056 7888,4065 7663,4065 7048,4062"/>
                 <Baseline points="7059,4053 7405,4059 7448,4058 7540,4057 7571,4057 7601,4057 7631,4056 7692,4056 7723,4055 7754,4055 7783,4055 7888,4054 7931,4053 8024,4052 8054,4053 8085,4052 8116,4052 8167,4051 8201,4051 8219,4050 8253,4050 8313,4049 8346,4048 8378,4048 8407,4047 8483,4046 8547,4046 8784,4028"/>
                 <TextEquiv>
-                    <Unicode>Weizenmehl No. 0 4 ¾ à 4 7/12, No. 0 u. 1 4 ½ à 4 ¼. Roggen-</Unicode>
+                    <Unicode>Weizenmehl No. 0 4 ¾ à 4 7⁄12, No. 0 u. 1 4 ½ à 4 ¼. Roggen-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l47" custom="readingOrder {index:46;}">
                 <Coords points="6926,4077 6958,4075 7099,4073 7579,4068 8615,4059 8635,4059 8785,4061 8785,4103 8222,4122 7525,4130 6926,4130"/>
                 <Baseline points="6926,4126 7068,4123 7099,4123 7195,4120 7225,4120 7256,4119 7284,4118 7344,4119 7378,4119 7409,4118 7438,4118 7551,4116 7579,4116 7673,4114 7705,4114 7734,4113 7768,4113 7820,4112 7857,4112 7876,4111 7934,4111 7987,4111 8021,4110 8052,4110 8082,4110 8144,4109 8177,4109 8248,4108 8278,4108 8384,4107 8414,4106 8785,4102"/>
                 <TextEquiv>
-                    <Unicode>mehl No. 0 3 ¾ à 3 7/12, No. 0 u. 1 3 7/12 à 3 ⅓ pr. Ctr. unversteuert</Unicode>
+                    <Unicode>mehl No. 0 3 ¾ à 3 7⁄12, No. 0 u. 1 3 7⁄12 à 3 ⅓ pr. Ctr. unversteuert</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l48" custom="readingOrder {index:47;}">
@@ -12097,53 +12097,53 @@ nete heute mehr Frage und stellten sich die Notirungen ca.
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Berlin, 14. Juni. (Amtliche Preis-Feststellung
-von Getreide, Mehl, Oel, Petroleum und Spiritus
-auf Grund des §. 15 der Börsenordnung, unter Zuziehung der
-vereideten Waaren- und Produktenmakler.)
-Weizen pr. 2100 Pfd. loco 65 — 77 Thlr. nach Qualität. pr.
-2000 Pfd. pr. diesen Monat 74 ¼ à 73 ⅞ bez., Juni-Juli 74 ¼ à.
-73 ⅞ bez., Juli-August 74 ¼ à 73 ⅞ bez., September-Oktober 76
-à 75 ½ bez., Oktober-November 75 ½ à 75 bez. Gek. 3000 Ctr.
-Kündigungspr. 73 ⅞ Thlr.
-Roggen pr. 2000 Pfd. loco 51 — 52 bez., pr. diesen Monat
-52 ¼ à 51 ¾ bez., Juni-Juli 52 ¼ à 51 ¾ bez., Juli-August 53 ¼ à 52 ⅞
-bez., September-Oktober 55 ⅜ à 54 ⅞ bez., Oktober-November
-55 ¼ à 54 ¾ bez., November-Dezember 55 à 54 ½ bez. Gekünd.
-15,000 Ctr. Kündigungspreis 52 Thlr.
-Gerste pr. 1750 Pfd., grosse und kleine 36 — 45 Thlr. nach
-Qualität.
-Hafer pr. 1200 Pfd. loco 25 — 30 Thlr. nach Qualität, 26
-bis 29 ½ bez., pr. diesen Monat 27 ¾ bez., Juni-Juli 27 ¾ bez., Juli-
-August 28 ¼ à 28 ⅛ à 28 ¼ bez., August-September 28 ½ bez., Sep-
-tember-Oktober 29 à 28 ¾ bez., Oktober-November 28 ½ bez.
-Gekünd. 4200 Ctr. Kündigungspr. 27 ¾ Thlr.
-Erbsen pr. 2250 Pfd., Kochwaare 52 — 58 Thlr. nach Qua-
-lität, Futterwaare 45 — 51 Thlr. nach Qualität.
-Roggenmehl No. 0 u. 1 pro Ctr. unversteuert inkl. Sack
-pr. diesen Monat 3 Thlr. 22 ¼ Sgr. à 3 Thlr. 22 Sgr. bez., Juni-
-Juli 3 Thlr. 22 ¼ Sgr. à 3 Thlr. 22 Sgr. bez., Juli-August 3 Thlr.
-23 Sgr. à 3 Thlr. 22 ¾ Sgr. bez., August-September 3 Thlr.
-23 ½ Sgr. Br., September-Oktober 3 Thlr. 25 Sgr. à 3 Thlr.
-24 ½ Sgr. bez., Oktober-November 3 Thlr. 24 Sgr. à 3 Thlr.
-23 ½ Sgr. bez.
-Rüböl pr. Ctr. ohne Fass loco 14 ¾ Thlr., pr. diesen Monat
-14 ¼ à 14 ⅙ à 14 ¼ bez., Juni-Juli 13 ⅚ à 13 ¾ bez., Juli-August 13 ½
-bez., September-Oktober 13 ⅜ à 13 ⅓ bez., Oktober-November 13 ⅜
-à 13 ⅓ bez. November-Dezember 13 ⅜ à 13 ⅓ bez.
-Leinöl pr. Ctr. ohne Fass loco 12 Thlr.
-Petroleum raffinirtes (Standard white) pr. Ctr. mit Fass
-in Posten von 50 Barrels (125 Ctr.) loco 7 5/12 Thlr., pr. diesen
-Monat 7 1/6 Thlr., September-Oktober 7 ½ bez., Oktober-November
-7 7/12 Br.
-Spiritus pr. 8000 pCt. mit Fass pr. diesen Monat 16 ⅜
-bez. u. G., 16 5/12 Br., Juni-Juli 16 ⅜ bez. u. Gd., 16 5/12 Br., Juli-
-August 16 11/24 à 16 ½ bez., Br. u. Gd., August-September 16 17/24 à
-16 ¾ bez., Br. u. Gd., September 16 11/12 à 17 bez., 100 Liter à
-100 pCt. = 10,000 pCt. mit Fass Oktober 18 Thlr. 6 Sgr. bez.
-Spiritus pr. 8000 pCt. ohne Fass loco 16 ¾ bez.
-Weizenmehl No. 0 4 ¾ à 4 7/12, No. 0 u. 1 4 ½ à 4 ¼. Roggen-
-mehl No. 0 3 ¾ à 3 7/12, No. 0 u. 1 3 7/12 à 3 ⅓ pr. Ctr. unversteuert
+                <Unicode>Berlin, 14. Juni. (Amtliche Preis-Feststellung&#13;
+von Getreide, Mehl, Oel, Petroleum und Spiritus&#13;
+auf Grund des §. 15 der Börsenordnung, unter Zuziehung der&#13;
+vereideten Waaren- und Produktenmakler.)&#13;
+Weizen pr. 2100 Pfd. loco 65 — 77 Thlr. nach Qualität. pr.&#13;
+2000 Pfd. pr. diesen Monat 74 ¼ à 73 ⅞ bez., Juni-Juli 74 ¼ à.&#13;
+73 ⅞ bez., Juli-August 74 ¼ à 73 ⅞ bez., September-Oktober 76&#13;
+à 75 ½ bez., Oktober-November 75 ½ à 75 bez. Gek. 3000 Ctr.&#13;
+Kündigungspr. 73 ⅞ Thlr.&#13;
+Roggen pr. 2000 Pfd. loco 51 — 52 bez., pr. diesen Monat&#13;
+52 ¼ à 51 ¾ bez., Juni-Juli 52 ¼ à 51 ¾ bez., Juli-August 53 ¼ à 52 ⅞&#13;
+bez., September-Oktober 55 ⅜ à 54 ⅞ bez., Oktober-November&#13;
+55 ¼ à 54 ¾ bez., November-Dezember 55 à 54 ½ bez. Gekünd.&#13;
+15,000 Ctr. Kündigungspreis 52 Thlr.&#13;
+Gerste pr. 1750 Pfd., grosse und kleine 36 — 45 Thlr. nach&#13;
+Qualität.&#13;
+Hafer pr. 1200 Pfd. loco 25 — 30 Thlr. nach Qualität, 26&#13;
+bis 29 ½ bez., pr. diesen Monat 27 ¾ bez., Juni-Juli 27 ¾ bez., Juli-&#13;
+August 28 ¼ à 28 ⅛ à 28 ¼ bez., August-September 28 ½ bez., Sep-&#13;
+tember-Oktober 29 à 28 ¾ bez., Oktober-November 28 ½ bez.&#13;
+Gekünd. 4200 Ctr. Kündigungspr. 27 ¾ Thlr.&#13;
+Erbsen pr. 2250 Pfd., Kochwaare 52 — 58 Thlr. nach Qua-&#13;
+lität, Futterwaare 45 — 51 Thlr. nach Qualität.&#13;
+Roggenmehl No. 0 u. 1 pro Ctr. unversteuert inkl. Sack&#13;
+pr. diesen Monat 3 Thlr. 22 ¼ Sgr. à 3 Thlr. 22 Sgr. bez., Juni-&#13;
+Juli 3 Thlr. 22 ¼ Sgr. à 3 Thlr. 22 Sgr. bez., Juli-August 3 Thlr.&#13;
+23 Sgr. à 3 Thlr. 22 ¾ Sgr. bez., August-September 3 Thlr.&#13;
+23 ½ Sgr. Br., September-Oktober 3 Thlr. 25 Sgr. à 3 Thlr.&#13;
+24 ½ Sgr. bez., Oktober-November 3 Thlr. 24 Sgr. à 3 Thlr.&#13;
+23 ½ Sgr. bez.&#13;
+Rüböl pr. Ctr. ohne Fass loco 14 ¾ Thlr., pr. diesen Monat&#13;
+14 ¼ à 14 ⅙ à 14 ¼ bez., Juni-Juli 13 ⅚ à 13 ¾ bez., Juli-August 13 ½&#13;
+bez., September-Oktober 13 ⅜ à 13 ⅓ bez., Oktober-November 13 ⅜&#13;
+à 13 ⅓ bez. November-Dezember 13 ⅜ à 13 ⅓ bez.&#13;
+Leinöl pr. Ctr. ohne Fass loco 12 Thlr.&#13;
+Petroleum raffinirtes (Standard white) pr. Ctr. mit Fass&#13;
+in Posten von 50 Barrels (125 Ctr.) loco 7 5⁄12 Thlr., pr. diesen&#13;
+Monat 7 1⁄6 Thlr., September-Oktober 7 ½ bez., Oktober-November&#13;
+7 7⁄12 Br.&#13;
+Spiritus pr. 8000 pCt. mit Fass pr. diesen Monat 16 ⅜&#13;
+bez. u. G., 16 5⁄12 Br., Juni-Juli 16 ⅜ bez. u. Gd., 16 5⁄12 Br., Juli-&#13;
+August 16 11⁄24 à 16 ½ bez., Br. u. Gd., August-September 16 17⁄24 à&#13;
+16 ¾ bez., Br. u. Gd., September 16 11⁄12 à 17 bez., 100 Liter à&#13;
+100 pCt. = 10,000 pCt. mit Fass Oktober 18 Thlr. 6 Sgr. bez.&#13;
+Spiritus pr. 8000 pCt. ohne Fass loco 16 ¾ bez.&#13;
+Weizenmehl No. 0 4 ¾ à 4 7⁄12, No. 0 u. 1 4 ½ à 4 ¼. Roggen-&#13;
+mehl No. 0 3 ¾ à 3 7⁄12, No. 0 u. 1 3 7⁄12 à 3 ⅓ pr. Ctr. unversteuert&#13;
 exkl. Sack.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -12358,7 +12358,7 @@ Zollgewicht loco 42 Thlr. Spiritus loco 16 ½ Thlr.</Unicode>
             </TextLine>
             <TextLine id="r24l12" custom="readingOrder {index:11;}">
                 <Coords points="6950,5748 8430,5724 8465,5724 8807,5728 8807,5782 8529,5785 8429,5788 7370,5784 7222,5803 7015,5801 6950,5794"/>
-                <Baseline points="6944,5783 7036,5795 7068,5795 7228,5793 7280,5792 7465,5789 7508,5789 7643,5787 7677,5787 7765,5784 7800,5784 7999,5781 8045,5780 8104,5779 8139,5779 8291,5776 8344,5776 8487,5775 8517,5776 8681,5774 8711,5774 8801,5776"/>
+                <Baseline points="6950,5783 7036,5795 7068,5795 7228,5793 7280,5792 7465,5784 7508,5784 7643,5785 7677,5785 7765,5784 7800,5784 7999,5781 8045,5780 8104,5779 8139,5779 8291,5776 8344,5776 8487,5775 8517,5776 8681,5774 8711,5774 8801,5776"/>
                 <TextEquiv>
                     <Unicode>47 ⅓ Thlr., 121pfd. poln. mit Geruch 48 Thlr., 123 — 24pfd. 49 ⅓</Unicode>
                 </TextEquiv>
